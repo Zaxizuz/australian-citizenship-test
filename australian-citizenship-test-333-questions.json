@@ -1,0 +1,4664 @@
+[
+ {
+  "n": 1,
+  "question": "What do you pledge at the Australian citizenship ceremony?",
+  "options": {
+   "A": "To follow only local laws.",
+   "B": "Loyalty to Australia and its people.",
+   "C": "To participate only in referendums.",
+   "D": "To learn about Australian wildlife."
+  },
+  "correct": "B",
+  "answer": "Loyalty to Australia and its people.",
+  "explanation": "At the Australian citizenship ceremony, you pledge your loyalty to Australia and its people. This pledge signifies your commitment to share in Australia's democratic beliefs, respect its rights and liberties, and uphold and obey its laws.",
+  "t": 36
+ },
+ {
+  "n": 2,
+  "question": "who are the indigenous peoples of Australia?",
+  "options": {
+   "A": "Maui and Polynesians.",
+   "B": "Aboriginal and Torres Strait Islander peoples.",
+   "C": "Inuit and first nations.",
+   "D": "Zulu and Khoisan."
+  },
+  "correct": "B",
+  "answer": "Aboriginal and Torres Strait Islander peoples.",
+  "explanation": "The indigenous peoples of Australia are the Aboriginal and Torres Strait Islander peoples who have lived there for thousands of years.",
+  "t": 86
+ },
+ {
+  "n": 3,
+  "question": "What significance do age-old beliefs and traditions have in the lives of Aboriginal and Torres Strait Islander peoples?",
+  "options": {
+   "A": "They still guide their culture and values.",
+   "B": "They are no longer important.",
+   "C": "They are only used in ceremonies.",
+   "D": "They are studied as history."
+  },
+  "correct": "A",
+  "answer": "They still guide their culture and values.",
+  "explanation": "The age-old beliefs and traditions continue to shape the culture, values, and way of life of these indigenous communities.",
+  "t": 129
+ },
+ {
+  "n": 4,
+  "question": "Which culture is an important part of Australia's national identity?",
+  "options": {
+   "A": "Indian culture.",
+   "B": "Homogeneous culture.",
+   "C": "Indigenous culture.",
+   "D": "None of the above."
+  },
+  "correct": "C",
+  "answer": "Indigenous culture.",
+  "explanation": "Indigenous cultures are incredibly diverse and form a vital part of Australia's national identity. The rich traditions, languages, and deep connection to the land of Aboriginal and Torres Strait Islander peoples have significantly influenced Australian society.",
+  "t": 174
+ },
+ {
+  "n": 5,
+  "question": "Torres Strait Islander people are from islands located between:",
+  "options": {
+   "A": "Queensland and Fiji.",
+   "B": "Northern tip of Queensland and Papua New Guinea.",
+   "C": "Australia and New Zealand.",
+   "D": "Indonesia and Papua New Guinea."
+  },
+  "correct": "B",
+  "answer": "Northern tip of Queensland and Papua New Guinea.",
+  "explanation": "Torres Strait Islander people are from islands between the northern tip of Queensland and Papua New Guinea.",
+  "t": 223
+ },
+ {
+  "n": 6,
+  "question": "When did the Aboriginal people arrive in Australia?",
+  "options": {
+   "A": "5,000 years ago.",
+   "B": "Between 65,000 and 40,000 years ago.",
+   "C": "10,000 years ago.",
+   "D": "Between 5,000 and 15,000 years ago."
+  },
+  "correct": "B",
+  "answer": "Between 65,000 and 40,000 years ago.",
+  "explanation": "The archaeological record indicates that Aboriginal peoples arrived in Australia between 65,000 and 40,000 years ago.",
+  "t": 268
+ },
+ {
+  "n": 7,
+  "question": "From where did Aboriginal people originate?",
+  "options": {
+   "A": "Mainland Australia and Tasmania.",
+   "B": "Papua New Guinea and Fiji.",
+   "C": "New Zealand and Tasmania.",
+   "D": "Mainland Australia and Indonesia."
+  },
+  "correct": "A",
+  "answer": "Mainland Australia and Tasmania.",
+  "explanation": "Aboriginal people are from mainland Australia and Tasmania.",
+  "t": 316
+ },
+ {
+  "n": 8,
+  "question": "What are the Aboriginal and Torres Strait Islander people famous for?",
+  "options": {
+   "A": "They have the oldest continuous cultures and traditions in North America.",
+   "B": "They have the oldest continuous cultures and traditions in Europe.",
+   "C": "Both A and B.",
+   "D": "They have the oldest continuous cultures and traditions in the world."
+  },
+  "correct": "D",
+  "answer": "They have the oldest continuous cultures and traditions in the world.",
+  "explanation": "The Aboriginal and Torres Strait Islander people have the oldest continuous cultures and traditions in the world.",
+  "t": 353
+ },
+ {
+  "n": 9,
+  "question": "Who were Australia's first inhabitants?",
+  "options": {
+   "A": "The Aboriginal and Torres Strait Islander peoples.",
+   "B": "The European settlers.",
+   "C": "The early Asian immigrants.",
+   "D": "The Pacific Islander communities."
+  },
+  "correct": "A",
+  "answer": "The Aboriginal and Torres Strait Islander peoples.",
+  "explanation": "Australia's first inhabitants are the Aboriginal and Torres Strait Islander peoples.",
+  "t": 401
+ },
+ {
+  "n": 10,
+  "question": "Who were the first non-European people to come to Australia?",
+  "options": {
+   "A": "Americans.",
+   "B": "Britishers.",
+   "C": "Vikings.",
+   "D": "Chinese."
+  },
+  "correct": "D",
+  "answer": "Chinese.",
+  "explanation": "Chinese people who arrived after the gold rush were the first large group of migrants not from Europe.",
+  "t": 444
+ },
+ {
+  "n": 11,
+  "question": "The 1851 gold rush in Australia attracted people from:",
+  "options": {
+   "A": "Europe.",
+   "B": "China.",
+   "C": "All around the world.",
+   "D": "New Zealand."
+  },
+  "correct": "C",
+  "answer": "All around the world.",
+  "explanation": "The 1851 gold rush in the colonies of New South Wales and Victoria attracted people from all around the world to make their fortunes.",
+  "t": 479
+ },
+ {
+  "n": 12,
+  "question": "When did the gold rush happen in Australia?",
+  "options": {
+   "A": "In 1851.",
+   "B": "In 1855.",
+   "C": "In 1860.",
+   "D": "In 1870."
+  },
+  "correct": "A",
+  "answer": "In 1851.",
+  "explanation": "The Australian gold rush began in 1851 when gold was discovered in New South Wales and Victoria.",
+  "t": 521
+ },
+ {
+  "n": 13,
+  "question": "When was gold discovered in the colonies of New South Wales and Victoria?",
+  "options": {
+   "A": "In 1848.",
+   "B": "In 1851.",
+   "C": "In 1890.",
+   "D": "In 1830."
+  },
+  "correct": "B",
+  "answer": "In 1851.",
+  "explanation": "Gold was discovered in the colonies of New South Wales and Victoria in 1851.",
+  "t": 559
+ },
+ {
+  "n": 14,
+  "question": "What influence did British and Irish heritage have on Australia?",
+  "options": {
+   "A": "It shaped Australia's recent culture, history, and politics.",
+   "B": "It had no significant impact.",
+   "C": "It led to the decline of local traditions.",
+   "D": "It primarily affected Australia's economy."
+  },
+  "correct": "A",
+  "answer": "It shaped Australia's recent culture, history, and politics.",
+  "explanation": "British and Irish heritage significantly shaped Australia's recent culture, history, and politics. The arrival of British settlers and Irish immigrants influenced the development of Australian society, including its legal and political systems, cultural practices, and social norms.",
+  "t": 596
+ },
+ {
+  "n": 15,
+  "question": "Where did the early free settlers in Australia come from?",
+  "options": {
+   "A": "Great Britain and Ireland.",
+   "B": "The United States and Canada.",
+   "C": "China and India.",
+   "D": "New Zealand and South Africa."
+  },
+  "correct": "A",
+  "answer": "Great Britain and Ireland.",
+  "explanation": "The early free settlers in Australia came from Great Britain and Ireland.",
+  "t": 657
+ },
+ {
+  "n": 16,
+  "question": "Who was the first governor of the colony of New South Wales?",
+  "options": {
+   "A": "Captain Hardy.",
+   "B": "Captain Arthur Jr.",
+   "C": "Captain Arthur Phillip.",
+   "D": "Captain Arthur Cury."
+  },
+  "correct": "C",
+  "answer": "Captain Arthur Phillip.",
+  "explanation": "The first governor of the colony of New South Wales was Captain Arthur Phillip. He assumed the role on January 18th, 1788 when the first fleet arrived and established the first British settlement in Australia.",
+  "t": 696
+ },
+ {
+  "n": 17,
+  "question": "Why did the British government decide to transport convicts to New South Wales in the 18th century?",
+  "options": {
+   "A": "To establish a new trade route.",
+   "B": "To manage overcrowded prisons.",
+   "C": "To explore new territories.",
+   "D": "To find gold."
+  },
+  "correct": "B",
+  "answer": "To manage overcrowded prisons.",
+  "explanation": "The British government decided to transport convicts to New South Wales in the 18th century due to overcrowded prisons.",
+  "t": 743
+ },
+ {
+  "n": 18,
+  "question": "What became to known as the first fleet?",
+  "options": {
+   "A": "The first 11 convict ships that arrived from Great Britain to Australia.",
+   "B": "The first 10 convict ships that arrived from Asia to Australia.",
+   "C": "The first nine convict ships that arrived from Great Britain to Australia.",
+   "D": "The first eight convict ships that arrived from China to Australia."
+  },
+  "correct": "A",
+  "answer": "The first 11 convict ships that arrived from Great Britain to Australia.",
+  "explanation": "The first fleet refers to the 11 British ships that transported the first European settlers, including convicts, to Australia.",
+  "t": 786
+ },
+ {
+  "n": 19,
+  "question": "From which country did the first fleet of convicts arrive in Australia in 1,788?",
+  "options": {
+   "A": "France.",
+   "B": "Spain.",
+   "C": "Great Britain.",
+   "D": "Portugal."
+  },
+  "correct": "C",
+  "answer": "Great Britain.",
+  "explanation": "The first fleet arrived from Great Britain which established the first European settlement in Australia.",
+  "t": 837
+ },
+ {
+  "n": 20,
+  "question": "What marked the beginning of European settlement in Australia?",
+  "options": {
+   "A": "The arrival of the first fleet in 1,788.",
+   "B": "The establishment of the gold rush.",
+   "C": "The founding of Sydney in 1,800.",
+   "D": "The signing of the Treaty of Versailles."
+  },
+  "correct": "A",
+  "answer": "The arrival of the first fleet in 1,788.",
+  "explanation": "The beginning of European settlement in Australia is marked by the arrival of the first fleet at Botany Bay on January 26th, 1788. This fleet consisting of 11 ships carrying convicts, marines, and officers was led by Captain Arthur Phillip.",
+  "t": 878
+ },
+ {
+  "n": 21,
+  "question": "When did the European settlement start in Australia?",
+  "options": {
+   "A": "June 12th, 1770.",
+   "B": "November 22nd, 1780.",
+   "C": "January 26th, 1788.",
+   "D": "March 16th, 1790."
+  },
+  "correct": "C",
+  "answer": "January 26th, 1788.",
+  "explanation": "European settlement started with the arrival of the first fleet on January 2006, 1788.",
+  "t": 936
+ },
+ {
+  "n": 22,
+  "question": "How many Aboriginal and Torres Strait Islander languages are part of Australian culture?",
+  "options": {
+   "A": "More than 50.",
+   "B": "More than 25.",
+   "C": "More than 200.",
+   "D": "More than 100."
+  },
+  "correct": "D",
+  "answer": "More than 100.",
+  "explanation": "Over 100 Aboriginal and Torres Strait Islander languages are part of Australian culture.",
+  "t": 980
+ },
+ {
+  "n": 23,
+  "question": "Why is communicating in English important in Australia?",
+  "options": {
+   "A": "It helps with making friends.",
+   "B": "It is necessary for working and living effectively.",
+   "C": "It is required for traveling only.",
+   "D": "It is needed for applying for jobs abroad."
+  },
+  "correct": "B",
+  "answer": "It is necessary for working and living effectively.",
+  "explanation": "Communicating in English is crucial in Australia because it is the primary language used in most aspects of daily life including work, education, and social interactions. Hence, you must be well-versed in it to work and live effectively here.",
+  "t": 1019
+ },
+ {
+  "n": 24,
+  "question": "What is Australia's national language?",
+  "options": {
+   "A": "English.",
+   "B": "French.",
+   "C": "Spanish.",
+   "D": "Australian."
+  },
+  "correct": "A",
+  "answer": "English.",
+  "explanation": "Australia's national language is English.",
+  "t": 1072
+ },
+ {
+  "n": 25,
+  "question": "Why did many Europeans migrate to Australia after World War II?",
+  "options": {
+   "A": "To escape war and start a new life.",
+   "B": "For better job opportunities.",
+   "C": "To join British colonies.",
+   "D": "For religious freedom."
+  },
+  "correct": "A",
+  "answer": "To escape war and start a new life.",
+  "explanation": "Many Europeans migrated to Australia after World War II to escape the devastation and economic hardship caused by the war. They sought better opportunities and a safer environment to rebuild their lives and secure a brighter future for their families.",
+  "t": 1104
+ },
+ {
+  "n": 26,
+  "question": "What happened to migration levels in Australia throughout the first half of the 20th century?",
+  "options": {
+   "A": "They rose and fell.",
+   "B": "They remained steady.",
+   "C": "They decreased significantly.",
+   "D": "They increased continuously."
+  },
+  "correct": "A",
+  "answer": "They rose and fell.",
+  "explanation": "Migration levels in Australia fluctuated. Rose and fell throughout the first half of the 20th century due to various factors. including economic conditions, world events like the great depression and world wars and changes in immigration policies.",
+  "t": 1158
+ },
+ {
+  "n": 27,
+  "question": "When were the Aboriginal and Torres rate islander people included in the official estimate of the Australian population?",
+  "options": {
+   "A": "After they protested in 1,960.",
+   "B": "After they became a majority in Australia in 1,980.",
+   "C": "After the Australian Constitution, 1,91.",
+   "D": "After the 1967 referendum."
+  },
+  "correct": "D",
+  "answer": "After the 1967 referendum.",
+  "explanation": "Aboriginal and Torres Strait Islander people were included in the official estimate of the Australian population after the 1967 referendum.",
+  "t": 1208
+ },
+ {
+  "n": 28,
+  "question": "What was Australia's population in 1901?",
+  "options": {
+   "A": "1 million.",
+   "B": "2 million.",
+   "C": "3 million.",
+   "D": "4 million."
+  },
+  "correct": "D",
+  "answer": "4 million.",
+  "explanation": "In 1901, Australia's population was about 4 million.",
+  "t": 1263
+ },
+ {
+  "n": 29,
+  "question": "What do we call the Federation of States formed in 1901?",
+  "options": {
+   "A": "The British Empire.",
+   "B": "The Commonwealth of Australia.",
+   "C": "The United States of Australia.",
+   "D": "The Australian Confederation."
+  },
+  "correct": "B",
+  "answer": "The Commonwealth of Australia.",
+  "explanation": "The Federation of States formed in 1901 is called the Commonwealth of Australia. This federation united six British colonies, New South Wales, Victoria, Queensland, South Australia, Western Australia, and Tasmania into a single nation on January 1st, 1901.",
+  "t": 1299
+ },
+ {
+  "n": 30,
+  "question": "When were the separate colonies united into a federation of states called the Commonwealth of Australia?",
+  "options": {
+   "A": "In 1920.",
+   "B": "In 1901.",
+   "C": "In 1932.",
+   "D": "In 1915."
+  },
+  "correct": "B",
+  "answer": "In 1901.",
+  "explanation": "The separate colonies united into a federation of states called the Commonwealth of Australia in 1901.",
+  "t": 1348
+ },
+ {
+  "n": 31,
+  "question": "What does Terra Australis refer to?",
+  "options": {
+   "A": "Land of the south.",
+   "B": "Southern Star.",
+   "C": "Made of gold.",
+   "D": "Land of wealth."
+  },
+  "correct": "A",
+  "answer": "Land of the south.",
+  "explanation": "Terra Australis incognita is Latin for unknown land of the south highlighting Australia's geographical identity.",
+  "t": 1413
+ },
+ {
+  "n": 32,
+  "question": "What is Australia's position among the largest countries in the world?",
+  "options": {
+   "A": "Fifth largest.",
+   "B": "Fourth largest.",
+   "C": "Seventh largest.",
+   "D": "Sixth largest."
+  },
+  "correct": "D",
+  "answer": "Sixth largest.",
+  "explanation": "Australia is the sixth largest country globally known for its vast land mass and diverse ecosystems.",
+  "t": 1452
+ },
+ {
+  "n": 33,
+  "question": "What is the capital of the Northern Territory?",
+  "options": {
+   "A": "Perth.",
+   "B": "Newcastle.",
+   "C": "Darwin.",
+   "D": "Pittsburgh."
+  },
+  "correct": "C",
+  "answer": "Darwin.",
+  "explanation": "The capital of the Northern Territory is Darwin. It is the largest city in the territory and serves as the main administrative and commercial centre.",
+  "t": 1492
+ },
+ {
+  "n": 34,
+  "question": "What is the capital of the Australian Capital Territory?",
+  "options": {
+   "A": "Melbourne.",
+   "B": "Brisbane.",
+   "C": "Canberra.",
+   "D": "Hobart."
+  },
+  "correct": "C",
+  "answer": "Canberra.",
+  "explanation": "Canberra is the capital of the Australian Capital Territory.",
+  "t": 1531
+ },
+ {
+  "n": 35,
+  "question": "What is the capital of Tasmania?",
+  "options": {
+   "A": "Melbourne.",
+   "B": "Brisbane.",
+   "C": "Can.",
+   "D": "Hobart."
+  },
+  "correct": "D",
+  "answer": "Hobart.",
+  "explanation": "Hobart is the capital of Tasmania.",
+  "t": 1565
+ },
+ {
+  "n": 36,
+  "question": "What is the capital of South Australia?",
+  "options": {
+   "A": "Can.",
+   "B": "Adelaide.",
+   "C": "Sydney.",
+   "D": "Newcastle."
+  },
+  "correct": "B",
+  "answer": "Adelaide.",
+  "explanation": "Adelaide is the capital of South Australia.",
+  "t": 1599
+ },
+ {
+  "n": 37,
+  "question": "What is the capital of Western Australia?",
+  "options": {
+   "A": "Brisbane.",
+   "B": "Newcastle.",
+   "C": "Can.",
+   "D": "Perth."
+  },
+  "correct": "D",
+  "answer": "Perth.",
+  "explanation": "Perth is the capital of Western Australia.",
+  "t": 1630
+ },
+ {
+  "n": 38,
+  "question": "What is the capital of Queensland?",
+  "options": {
+   "A": "Brisbane.",
+   "B": "Perth.",
+   "C": "Newcastle.",
+   "D": "Sydney."
+  },
+  "correct": "A",
+  "answer": "Brisbane.",
+  "explanation": "Brisbane is the capital of Queensland.",
+  "t": 1661
+ },
+ {
+  "n": 39,
+  "question": "What is the capital of Victoria?",
+  "options": {
+   "A": "Perth.",
+   "B": "Melbourne.",
+   "C": "Canberra.",
+   "D": "Newcastle."
+  },
+  "correct": "B",
+  "answer": "Melbourne.",
+  "explanation": "Melbourne is the capital of Victoria.",
+  "t": 1692
+ },
+ {
+  "n": 40,
+  "question": "What is the capital of New South Wales?",
+  "options": {
+   "A": "Sydney.",
+   "B": "Can.",
+   "C": "Melbourne.",
+   "D": "Newcastle."
+  },
+  "correct": "A",
+  "answer": "Sydney.",
+  "explanation": "Sydney is the capital of New South Wales.",
+  "t": 1722
+ },
+ {
+  "n": 41,
+  "question": "Does each state and mainland territory have its own capital?",
+  "options": {
+   "A": "Yes.",
+   "B": "No.",
+   "C": "Some have, others don't.",
+   "D": "Canberra is the capital of all the territories."
+  },
+  "correct": "A",
+  "answer": "Yes.",
+  "explanation": "While Canberra is Australia's capital city, each state and mainland territory has its own capital.",
+  "t": 1755
+ },
+ {
+  "n": 42,
+  "question": "What is the capital of Australia?",
+  "options": {
+   "A": "Sydney.",
+   "B": "Melbourne.",
+   "C": "Canberra.",
+   "D": "Perth."
+  },
+  "correct": "C",
+  "answer": "Canberra.",
+  "explanation": "The capital of Australia is Canberra. It was selected as a compromise between Sydney and Melbourne and has been the seat of the Australian government since 1913.",
+  "t": 1793
+ },
+ {
+  "n": 43,
+  "question": "How many mainland territories are there in the Commonwealth of Australia?",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "correct": "B",
+  "answer": "2.",
+  "explanation": "There are six states and two mainland territories in the Commonwealth of Australia.",
+  "t": 1832
+ },
+ {
+  "n": 44,
+  "question": "Which of the following are Australian mainland territories?",
+  "options": {
+   "A": "Northern Territory and Australian Capital Territory?",
+   "B": "Queensland and Tasmania.",
+   "C": "Victoria and New South Wales.",
+   "D": "South Australia and Western Australia."
+  },
+  "correct": "A",
+  "answer": "Northern Territory and Australian Capital Territory.",
+  "explanation": "The Australian mainland territories are the Northern Territory and the Australian Capital Territory.",
+  "t": 1865
+ },
+ {
+  "n": 45,
+  "question": "Which of the following are the Australian states?",
+  "options": {
+   "A": "New South Wales, Victoria, Queensland, Western Australia, South Australia, and Tasmania.",
+   "B": "New Zealand, Queensland, Western Australia, Victoria, Tasmania.",
+   "C": "Sydney, Melbourne, Perth, Adelaide, Brisbane.",
+   "D": "New South Wales, Queensland, Melbourne, Tasmania, Canberra."
+  },
+  "correct": "A",
+  "answer": "New South Wales, Victoria, Queensland, Western Australia, South Australia, and Tasmania.",
+  "explanation": "The Australian states are New South Wales, Victoria, Queensland, Western Australia, South Australia, and Tasmania.",
+  "t": 1910
+ },
+ {
+  "n": 46,
+  "question": "How many states are there in the Commonwealth of Australia?",
+  "options": {
+   "A": "2.",
+   "B": "4.",
+   "C": "6.",
+   "D": "8."
+  },
+  "correct": "C",
+  "answer": "Six.",
+  "explanation": "The Commonwealth of Australia consists of six states. New South Wales, Victoria, Queensland, South Australia, Western Australia, and Tasmania.",
+  "t": 1967
+ },
+ {
+  "n": 47,
+  "question": "What is the Commonwealth of Australia?",
+  "options": {
+   "A": "It is a federation of multiple countries.",
+   "B": "It is a federation of six states and two mainland territories.",
+   "C": "It is a federation of small islands.",
+   "D": "Both A and B."
+  },
+  "correct": "B",
+  "answer": "It is a federation of six states and two mainland territories.",
+  "explanation": "The Commonwealth of Australia is a federation of six states and two mainland territories.",
+  "t": 2004
+ },
+ {
+  "n": 48,
+  "question": "Which of the following are the national icons located in New South Wales?",
+  "options": {
+   "A": "The Sydney Harbour Bridge and Opera House.",
+   "B": "The Eiffel Tower and Big Ben.",
+   "C": "The Statue of Liberty and Golden Gate Bridge.",
+   "D": "The Coliseum and the Great Wall of China."
+  },
+  "correct": "A",
+  "answer": "The Sydney Harbour Bridge and Opera House.",
+  "explanation": "The Sydney Harbour Bridge and Opera House are the national icons located in New South Wales.",
+  "t": 2047
+ },
+ {
+  "n": 49,
+  "question": "Which is the largest city in Australia?",
+  "options": {
+   "A": "Melbourne.",
+   "B": "Sydney.",
+   "C": "Victoria.",
+   "D": "Perth."
+  },
+  "correct": "B",
+  "answer": "Sydney.",
+  "explanation": "The largest city in Australia is Sydney with a population of over 5.4 million residents.",
+  "t": 2093
+ },
+ {
+  "n": 50,
+  "question": "Which was the first Australian colony to be established by the British?",
+  "options": {
+   "A": "Victoria.",
+   "B": "New Queensland.",
+   "C": "Western Australia.",
+   "D": "New South Wales."
+  },
+  "correct": "D",
+  "answer": "New South Wales.",
+  "explanation": "New South Wales was the first colony to be established by the British.",
+  "t": 2130
+ },
+ {
+  "n": 51,
+  "question": "Which of the following are icons of Victoria?",
+  "options": {
+   "A": "The Melbourne Cricket Ground, the Twelve Apostles, and the Royal Exhibition Building.",
+   "B": "The Sydney Opera House and Bondi Beach.",
+   "C": "The Great Barrier Reef and Uluru.",
+   "D": "The Blue Mountains and the Daintree."
+  },
+  "correct": "A",
+  "answer": "The Melbourne Cricket Ground, the Twelve Apostles, and the Royal Exhibition Building.",
+  "explanation": "Victoria's icons include the Melbourne Cricket Ground, the Twelve Apostles, and the Royal Exhibition Building.",
+  "t": 2165
+ },
+ {
+  "n": 52,
+  "question": "Which of the following is the smallest of the mainland states?",
+  "options": {
+   "A": "Queensland.",
+   "B": "Victoria.",
+   "C": "South Australia.",
+   "D": "New South Wales."
+  },
+  "correct": "B",
+  "answer": "Victoria.",
+  "explanation": "The smallest of the mainland Australian states by area is Victoria. It covers approximately 227,444 km.",
+  "t": 2213
+ },
+ {
+  "n": 53,
+  "question": "Which world famous reef runs along the eastern coast of the Torres Strait islands?",
+  "options": {
+   "A": "Great Barrier Reef.",
+   "B": "Small Barrier Reef.",
+   "C": "Ain Court Reef.",
+   "D": "Ningaloo Reef."
+  },
+  "correct": "A",
+  "answer": "Great Barrier Reef.",
+  "explanation": "The world famous Great Barrier Reef runs along the eastern coast of the Torres Strait Island.",
+  "t": 2255
+ },
+ {
+  "n": 54,
+  "question": "Where do the Torres Strait Islands lie?",
+  "options": {
+   "A": "South of the NSW state.",
+   "B": "West of the Victoria State.",
+   "C": "North of the Queensland State.",
+   "D": "East of the Tasmania State."
+  },
+  "correct": "C",
+  "answer": "North of the Queensland state.",
+  "explanation": "The Torres Strait Islands lie to the north of the Queensland state and the world famous Great Barrier Reef runs along its eastern coast.",
+  "t": 2294
+ },
+ {
+  "n": 55,
+  "question": "Which is Australia's second largest state?",
+  "options": {
+   "A": "Sydney.",
+   "B": "Queensland.",
+   "C": "Victoria.",
+   "D": "New South Land."
+  },
+  "correct": "B",
+  "answer": "Queensland.",
+  "explanation": "Australia's second largest state by area is Queensland. It covers approximately 1,723,030 km.",
+  "t": 2337
+ },
+ {
+  "n": 56,
+  "question": "What is Western Australia home to?",
+  "options": {
+   "A": "Many large mining projects.",
+   "B": "Many major fishing industries.",
+   "C": "Large entertainment complexes.",
+   "D": "Extensive forests and reserves."
+  },
+  "correct": "A",
+  "answer": "Many large mining projects.",
+  "explanation": "Western Australia is the home to many large mining projects. It is a major hub for resources and mining, producing more than 50 different minerals from numerous projects.",
+  "t": 2377
+ },
+ {
+  "n": 57,
+  "question": "What is the southwest of Western Australia known for?",
+  "options": {
+   "A": "Urban development and skyscrapers.",
+   "B": "Deserts and mining regions.",
+   "C": "Rich agricultural and wine growing areas.",
+   "D": "Wetlands and tropical rainforests."
+  },
+  "correct": "C",
+  "answer": "Rich agricultural and wine growing areas.",
+  "explanation": "The southwest of Western Australia is a rich agricultural and wine growing area.",
+  "t": 2423
+ },
+ {
+  "n": 58,
+  "question": "Which is Australia's largest state?",
+  "options": {
+   "A": "South Australia.",
+   "B": "Western Australia.",
+   "C": "New South Wales.",
+   "D": "Queensland."
+  },
+  "correct": "B",
+  "answer": "Western Australia.",
+  "explanation": "Western Australia is the largest state in Australia.",
+  "t": 2466
+ },
+ {
+  "n": 59,
+  "question": "Which of the following are icons of South Australia?",
+  "options": {
+   "A": "The Barasa Valley and the Flenders Ranges.",
+   "B": "The Great Barrier Reef and Uluru.",
+   "C": "The Sydney Opera House and Bondi Beach.",
+   "D": "The Twelve Apostles and the Kimberley region."
+  },
+  "correct": "A",
+  "answer": "The Barasa Valley and the Flenders Ranges.",
+  "explanation": "South Australia's icons include the Barasa Valley and the Flenders Ranges.",
+  "t": 2499
+ },
+ {
+  "n": 60,
+  "question": "What is Adelaide, the capital of South Australia known for?",
+  "options": {
+   "A": "Fine colonial architecture?",
+   "B": "Tall modern buildings.",
+   "C": "Tropical forests.",
+   "D": "Deserts."
+  },
+  "correct": "A",
+  "answer": "Fine colonial architecture.",
+  "explanation": "Adelaide, the capital of South Australia, is renowned for its fine colonial architecture. The city features a variety of historic buildings that reflect its rich heritage, including styles such as Victorian, Eduwardian, and Gothic Revival. Notable examples include the Parliament House, St. Peter's Cathedral, and the Beehive Corner.",
+  "t": 2543
+ },
+ {
+  "n": 61,
+  "question": "What is South Australia famous for?",
+  "options": {
+   "A": "Mining regions.",
+   "B": "Agricultural regions.",
+   "C": "Wine regions.",
+   "D": "Tropical regions."
+  },
+  "correct": "C",
+  "answer": "Wine regions.",
+  "explanation": "South Australia is famous for its diverse and world-renowned wine regions.",
+  "t": 2597
+ },
+ {
+  "n": 62,
+  "question": "The coastline of South Australia is:",
+  "options": {
+   "A": "Rugged.",
+   "B": "Flat.",
+   "C": "Sandy.",
+   "D": "Tropical."
+  },
+  "correct": "A",
+  "answer": "Rugged.",
+  "explanation": "The coastline of South Australia is known for its rugged beauty, featuring dramatic cliffs, secluded beaches, and towering sand dunes.",
+  "t": 2634
+ },
+ {
+  "n": 63,
+  "question": "Which of the following are icons of Tasmania?",
+  "options": {
+   "A": "Cradle Mountain, Port Arthur, and the Bay of Fires.",
+   "B": "The Great Barrier Reef and Uluru.",
+   "C": "The Sydney Opera House and Bondi Beach.",
+   "D": "The Twelve Apostles and the Blue Mountains."
+  },
+  "correct": "A",
+  "answer": "Cradle Mountain, Port Arthur, and the Bay of Fires.",
+  "explanation": "Cradle Mountain, Port Arthur, and the Bay of Fires are iconic landmarks of Tasmania.",
+  "t": 2669
+ },
+ {
+  "n": 64,
+  "question": "Which is Australia's smallest state?",
+  "options": {
+   "A": "Perth.",
+   "B": "Queensland.",
+   "C": "Victoria.",
+   "D": "Tasmania."
+  },
+  "correct": "D",
+  "answer": "Tasmania.",
+  "explanation": "Australia's smallest state by area is Tasmania. It covers approximately 68,401 square kilometres.",
+  "t": 2716
+ },
+ {
+  "n": 65,
+  "question": "What is Tasmania?",
+  "options": {
+   "A": "An ocean.",
+   "B": "A sea.",
+   "C": "An island.",
+   "D": "All of the above."
+  },
+  "correct": "C",
+  "answer": "An island.",
+  "explanation": "Tasmania is an island separated from the mainland by the Bass Strait.",
+  "t": 2753
+ },
+ {
+  "n": 66,
+  "question": "Which national institutions are located in Canberra?",
+  "options": {
+   "A": "Parliament House and the High Court of Australia?",
+   "B": "The Australian Museum and the National Gallery.",
+   "C": "The Sydney Opera House and the Great Barrier Reef.",
+   "D": "The Australian War Memorial and the Royal Botanic Gardens."
+  },
+  "correct": "A",
+  "answer": "Parliament House and the High Court of Australia.",
+  "explanation": "Several national institutions are located in Canberra including Parliament House and the High Court of Australia.",
+  "t": 2785
+ },
+ {
+  "n": 67,
+  "question": "Where is the Australian Capital Territory located?",
+  "options": {
+   "A": "Between Sydney and Austria [unclear in audio].",
+   "B": "Between Melbourne and Perth.",
+   "C": "Between Sydney and Melbourne.",
+   "D": "Between Melbourne and Tasmania."
+  },
+  "correct": "C",
+  "answer": "Between Sydney and Melbourne.",
+  "explanation": "The Australian Capital Territory is located between Sydney and Melbourne.",
+  "t": 2834
+ },
+ {
+  "n": 68,
+  "question": "Which of the following are icons of the Northern Territory?",
+  "options": {
+   "A": "The Blue Mountains and Port Arthur.",
+   "B": "The Sydney Opera House and Bondi Beach.",
+   "C": "The Great Barrier Reef and the Twelve Apostles.",
+   "D": "Uluru, Kata Tjuta, and King's Canyon."
+  },
+  "correct": "D",
+  "answer": "Uluru Kata Tjuta and King's Canyon.",
+  "explanation": "Uluru, Kata Tjuta, and King's Canyon are iconic landmarks of the Northern Territory.",
+  "t": 2872
+ },
+ {
+  "n": 69,
+  "question": "What is the south of the Northern Territory known for?",
+  "options": {
+   "A": "Dry red desert.",
+   "B": "Tropical beaches.",
+   "C": "Mountainscapes.",
+   "D": "Wetlands."
+  },
+  "correct": "A",
+  "answer": "Dry red desert.",
+  "explanation": "The southern part of the Northern Territory is known for its dry red desert.",
+  "t": 2917
+ },
+ {
+  "n": 70,
+  "question": "What is the environment like in the north of the Northern Territory?",
+  "options": {
+   "A": "Tropical.",
+   "B": "Dry and arid.",
+   "C": "Temperate.",
+   "D": "Coastal and sandy."
+  },
+  "correct": "A",
+  "answer": "Tropical.",
+  "explanation": "The environment in the north of the Northern Territory is characterized by a tropical climate with distinct wet and dry seasons.",
+  "t": 2952
+ },
+ {
+  "n": 71,
+  "question": "Who can deliver a welcome to country?",
+  "options": {
+   "A": "A local teacher.",
+   "B": "A community leader from any culture.",
+   "C": "A government official.",
+   "D": "An Aboriginal or Torres Strait Islander custodian of the local region."
+  },
+  "correct": "D",
+  "answer": "An Aboriginal or Torres Strait Islander custodian of the local region.",
+  "explanation": "A welcome to country can only be delivered by a recognized Aboriginal elder or a traditional custodian of the land. In some cases, an Aboriginal or Torres Strait Islander person who has been given permission by the traditional owners can also perform this ceremony.",
+  "t": 2988
+ },
+ {
+  "n": 72,
+  "question": "Who can deliver acknowledgement of country?",
+  "options": {
+   "A": "Only Aboriginal and Torres Strait Islander people.",
+   "B": "Anyone.",
+   "C": "Only the chairperson.",
+   "D": "Only the event organizer."
+  },
+  "correct": "B",
+  "answer": "Anyone?",
+  "explanation": "An acknowledgement of country can be delivered by anyone whether they are indigenous or non-indigenous.",
+  "t": 3044
+ },
+ {
+  "n": 73,
+  "question": "What does an acknowledgement of country recognize?",
+  "options": {
+   "A": "That the gathering is on Aboriginal or Torres Strait Islander land.",
+   "B": "The event schedule and agenda.",
+   "C": "The importance of local customs.",
+   "D": "The contributions of attendees."
+  },
+  "correct": "A",
+  "answer": "That the gathering is on Aboriginal or Torres Strait Islander land.",
+  "explanation": "An acknowledgment of country is an opportunity to recognize that the gathering is on Aboriginal or Torres Strait Islander land.",
+  "t": 3083
+ },
+ {
+  "n": 74,
+  "question": "Where are the Australian of the Year awards announced?",
+  "options": {
+   "A": "In Sydney.",
+   "B": "In Canberra.",
+   "C": "In Melbourne.",
+   "D": "In Brisbane."
+  },
+  "correct": "B",
+  "answer": "In Canberra.",
+  "explanation": "The Australian of the Year Awards are announced in Canberra, the capital city of Australia.",
+  "t": 3129
+ },
+ {
+  "n": 75,
+  "question": "When are the Australian of the Year awards announced?",
+  "options": {
+   "A": "During Australia Day celebrations.",
+   "B": "On National Remembrance Day.",
+   "C": "On the sovereign's birthday.",
+   "D": "During the Christmas holidays."
+  },
+  "correct": "A",
+  "answer": "During Australia Day celebrations.",
+  "explanation": "The Australian of the Year awards are announced on the evening of January 25th each year during the Australia Day celebrations.",
+  "t": 3164
+ },
+ {
+  "n": 76,
+  "question": "On Australia Day, which special events take place across Australia?",
+  "options": {
+   "A": "Marriages.",
+   "B": "National sporting events.",
+   "C": "Special citizenship ceremonies.",
+   "D": "Music festivals."
+  },
+  "correct": "C",
+  "answer": "Special citizenship ceremonies.",
+  "explanation": "Many new Australians take the oath of citizenship in ceremonies held nationwide on Australia Day.",
+  "t": 3206
+ },
+ {
+  "n": 77,
+  "question": "What is Australia Day all about?",
+  "options": {
+   "A": "Acknowledging and celebrating the Aboriginal and Torres Strait Islander peoples.",
+   "B": "Acknowledging and celebrating the people living in Australia for generations.",
+   "C": "Acknowledging and celebrating the people who come to Australia from all over the globe.",
+   "D": "All of the above."
+  },
+  "correct": "D",
+  "answer": "All of the above.",
+  "explanation": "Australia Day is about recognizing and celebrating the diverse history, people and cultures of Australia, including indigenous peoples and those who have contributed over generations.",
+  "t": 3250
+ },
+ {
+  "n": 78,
+  "question": "Which day is the biggest annual public holiday in Australia?",
+  "options": {
+   "A": "Christmas Day.",
+   "B": "Australia Day.",
+   "C": "New Year's Day.",
+   "D": "Anzac Day."
+  },
+  "correct": "B",
+  "answer": "Australia Day.",
+  "explanation": "Australia Day is the biggest annual public holiday in Australia.",
+  "t": 3298
+ },
+ {
+  "n": 79,
+  "question": "What do communities across Australia do on Australia Day?",
+  "options": {
+   "A": "Reflect on history and the people who contributed to country's shared achievements.",
+   "B": "Celebrate only indigenous cultures.",
+   "C": "Honour the natural beauty of Australia.",
+   "D": "Arrange sporting events."
+  },
+  "correct": "A",
+  "answer": "Reflect on history and the people who contributed to country's shared achievements.",
+  "explanation": "On Australia Day, communities across the country come together to reflect on the nation's history and honour the contributions of those who have helped shape its shared achievements.",
+  "t": 3334
+ },
+ {
+  "n": 80,
+  "question": "What does Australia Day commemorate?",
+  "options": {
+   "A": "The anniversary of the arrival of the first fleet in 1788.",
+   "B": "The founding of federation in 1901.",
+   "C": "The end of the World War II.",
+   "D": "The establishment of Canberra as the capital."
+  },
+  "correct": "A",
+  "answer": "The anniversary of the arrival of the first fleet in 1788.",
+  "explanation": "Australia Day. observed on January 26th commemorates the arrival of the first fleet at Sydney Cove in 1788 and the subsequent raising of the Union flag by Arthur Phillip.",
+  "t": 3386
+ },
+ {
+  "n": 81,
+  "question": "When do Australians celebrate Australia Day?",
+  "options": {
+   "A": "26 January each year.",
+   "B": "1 January each year.",
+   "C": "25 December each year.",
+   "D": "26 November each year."
+  },
+  "correct": "A",
+  "answer": "26th January each year.",
+  "explanation": "Australians celebrate Australia Day on January 26th each year.",
+  "t": 3438
+ },
+ {
+  "n": 82,
+  "question": "What do Australians remember on Anzac Day?",
+  "options": {
+   "A": "The sacrifice of Australians who served and died in wars.",
+   "B": "The signing of peace treaties.",
+   "C": "The history of the Australian Constitution.",
+   "D": "The establishment of federation."
+  },
+  "correct": "A",
+  "answer": "The sacrifice of Australians who served and died in wars.",
+  "explanation": "On Anzac Day, Australians remember and honour the sacrifice of those who served and died in wars, conflicts, and peacekeeping operations.",
+  "t": 3478
+ },
+ {
+  "n": 83,
+  "question": "What happened on Anzac Day, April 25th, 1915?",
+  "options": {
+   "A": "The United Nations was established.",
+   "B": "World War II began.",
+   "C": "Federation of Australia was declared.",
+   "D": "The Australian and New Zealand Army Corps landed at Gallipoli, Turkey."
+  },
+  "correct": "D",
+  "answer": "The Australian and New Zealand Army Corps landed at Gallipoli, Turkey.",
+  "explanation": "On Anzac Day, April 235th, 1915, the Australian and New Zealand Army Corps, ANZAC, landed at Gallipoli Peninsula in Turkey during World War I.",
+  "t": 3526
+ },
+ {
+  "n": 84,
+  "question": "What does ANZAC stand for?",
+  "options": {
+   "A": "Australian and New Zealand Army Corps.",
+   "B": "Australia New Zealand Allied Coalition.",
+   "C": "Army Network of Australia and Zealand.",
+   "D": "Australian Navy and Army Corps."
+  },
+  "correct": "A",
+  "answer": "Australian and New Zealand Army Corps.",
+  "explanation": "An ANZAC stands for Australian and New Zealand Army Corps.",
+  "t": 3579
+ },
+ {
+  "n": 85,
+  "question": "When is Anzac Day commemorated?",
+  "options": {
+   "A": "25 April each year.",
+   "B": "26 January each year.",
+   "C": "11 November each year.",
+   "D": "15 August each year."
+  },
+  "correct": "A",
+  "answer": "25 April each year.",
+  "explanation": "Anzac Day is commemorated on 25 April each year.",
+  "t": 3617
+ },
+ {
+  "n": 86,
+  "question": "What does the southern cross on the Australian national flag represent?",
+  "options": {
+   "A": "A group of stars visible in the southern sky.",
+   "B": "The connections with the United Kingdom.",
+   "C": "The unity of Australia states.",
+   "D": "The British Empire's influence."
+  },
+  "correct": "A",
+  "answer": "A group of stars visible in the southern sky.",
+  "explanation": "The southern cross on the right is a group of stars that can be seen in the southern sky.",
+  "t": 3676
+ },
+ {
+  "n": 87,
+  "question": "Where is the Southern Cross located on the Australian National Flag?",
+  "options": {
+   "A": "On the left.",
+   "B": "On the right.",
+   "C": "In the centre.",
+   "D": "At the top."
+  },
+  "correct": "B",
+  "answer": "On the right.",
+  "explanation": "The Southern Cross is shown on the right side of the Australian flag.",
+  "t": 3734
+ },
+ {
+  "n": 88,
+  "question": "What do the seven points of the Commonwealth Star on the Australian National Flag represent?",
+  "options": {
+   "A": "Six states and one territory.",
+   "B": "Six states and six territories.",
+   "C": "The seven original colonies.",
+   "D": "Six states and the Commonwealth."
+  },
+  "correct": "A",
+  "answer": "Six states and one territory.",
+  "explanation": "The Commonwealth Star has seven points. Each point representing one of the six states and one point for the territories.",
+  "t": 3767
+ },
+ {
+  "n": 89,
+  "question": "How many points does the Commonwealth Star have?",
+  "options": {
+   "A": "Four.",
+   "B": "5.",
+   "C": "6.",
+   "D": "7."
+  },
+  "correct": "D",
+  "answer": "7.",
+  "explanation": "The Commonwealth Star, also known as a Federation Star, has seven points. Six of these points represent the six original states of Australia, while the seventh point symbolizes the territories and any future states.",
+  "t": 3812
+ },
+ {
+  "n": 90,
+  "question": "Why is the Union Jack present in the national flag of Australia?",
+  "options": {
+   "A": "It shows Australia's commitment and loyalty to the world.",
+   "B": "It shows Australia's commitment and loyalty to Britain.",
+   "C": "It represents Australia's history of British settlement and the laws they inherited as a result.",
+   "D": "All of the above."
+  },
+  "correct": "C",
+  "answer": "It represents Australia's history of British settlement and the laws they inherited as a result.",
+  "explanation": "The Union Jack present in the National Flag of Australia represents the history of British settlement and the laws and institutions Australia inherited as a result.",
+  "t": 3854
+ },
+ {
+  "n": 91,
+  "question": "What is in the top left corner on the Australian National Flag?",
+  "options": {
+   "A": "The Union Jack.",
+   "B": "The Commonwealth Star.",
+   "C": "The Southern Cross.",
+   "D": "The Australian Coat of Arms."
+  },
+  "correct": "A",
+  "answer": "The Union Jack.",
+  "explanation": "The top left corner of the Australian National Flag features the Union Jack. This element acknowledges Australia's historical ties to the United Kingdom.",
+  "t": 3909
+ },
+ {
+  "n": 92,
+  "question": "What is the background colour of the Australian national flag?",
+  "options": {
+   "A": "Red.",
+   "B": "Blue.",
+   "C": "Green.",
+   "D": "White."
+  },
+  "correct": "B",
+  "answer": "Blue.",
+  "explanation": "The background colour of the Australian national flag is blue.",
+  "t": 3952
+ },
+ {
+  "n": 93,
+  "question": "What are the colours of the Australian national flag?",
+  "options": {
+   "A": "Blue, white, and red.",
+   "B": "Green, yellow, and black.",
+   "C": "Red, white, and blue.",
+   "D": "Black, white, and green."
+  },
+  "correct": "A",
+  "answer": "Blue, white, and red.",
+  "explanation": "The Australian national flag features three primary colours, blue, white, and red.",
+  "t": 3983
+ },
+ {
+  "n": 94,
+  "question": "Which of the following are the official flags of Australia?",
+  "options": {
+   "A": "The Australian national flag, the Aboriginal flag, and the Torres Strait Islander flag.",
+   "B": "The Australian national flag, the English flag, and the Aboriginal flag.",
+   "C": "The Australian National Flag, the Southern Cross Flag, and the Torres Strait Islander flag.",
+   "D": "The Australian National Flag, the Australian Defence Flag, and the Aboriginal Flag."
+  },
+  "correct": "A",
+  "answer": "The Australian National Flag, the Aboriginal flag, and the Torres Strait Islander flag.",
+  "explanation": "Australia has three official flags, the national flag, the Aboriginal flag, and the Torres Strait Islander flag.",
+  "t": 4023
+ },
+ {
+  "n": 95,
+  "question": "How many official flags does Australia have?",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "correct": "C",
+  "answer": "Three.",
+  "explanation": "Australia has three official flags. The national flag, the Aboriginal flag, and the Torres Strait Islander flag.",
+  "t": 4081
+ },
+ {
+  "n": 96,
+  "question": "Which of the following is Australia's official flag?",
+  "options": {
+   "A": "The Australian national flag.",
+   "B": "The Australian Aboriginal flag.",
+   "C": "The Torres Strait Islander flag.",
+   "D": "None of the above."
+  },
+  "correct": "A",
+  "answer": "The Australian National Flag.",
+  "explanation": "The Australian National Flag is Australia's official flag.",
+  "t": 4117
+ },
+ {
+  "n": 97,
+  "question": "What does the yellow circle on the Australian Aboriginal flag represent?",
+  "options": {
+   "A": "The sun.",
+   "B": "The moon.",
+   "C": "The stars.",
+   "D": "The sacred fire."
+  },
+  "correct": "A",
+  "answer": "The sun.",
+  "explanation": "The yellow circle on the Australian Aboriginal flag represents the sun which is considered the giver of life and a protector.",
+  "t": 4156
+ },
+ {
+  "n": 98,
+  "question": "What does the red colour in the Australian Aboriginal flag symbolize?",
+  "options": {
+   "A": "The sun rays.",
+   "B": "The blood of Aboriginal ancestors.",
+   "C": "The earth and its ceremonial significance.",
+   "D": "The beauty of Australia's land."
+  },
+  "correct": "C",
+  "answer": "The Earth and its ceremonial significance.",
+  "explanation": "The red colour in the Australian Aboriginal flag symbolizes the earth and its ceremonial significance.",
+  "t": 4192
+ },
+ {
+  "n": 99,
+  "question": "What does the black colour in the Australian Aboriginal flag represent?",
+  "options": {
+   "A": "The Aboriginal peoples of Australia?",
+   "B": "The struggles of the indigenous people of Australia.",
+   "C": "The Australian land and its fertility.",
+   "D": "The Australia's connection to the world."
+  },
+  "correct": "A",
+  "answer": "The Aboriginal peoples of Australia.",
+  "explanation": "The black colour of the Australian Aboriginal flag represents the Aboriginal peoples of Australia.",
+  "t": 4236
+ },
+ {
+  "n": 100,
+  "question": "What are the colours of the Australian Aboriginal flag?",
+  "options": {
+   "A": "Blue, white, and red.",
+   "B": "Black, red, and yellow.",
+   "C": "Green, black, and white.",
+   "D": "Red, white, and green."
+  },
+  "correct": "B",
+  "answer": "Black, red, and yellow.",
+  "explanation": "The Australian Aboriginal flag is black, red, and yellow.",
+  "t": 4279
+ },
+ {
+  "n": 101,
+  "question": "What colour is the bottom half of the Australian Aboriginal flag?",
+  "options": {
+   "A": "Green.",
+   "B": "Red.",
+   "C": "Black.",
+   "D": "Yellow."
+  },
+  "correct": "B",
+  "answer": "Red.",
+  "explanation": "The Aboriginal flag's bottom half is red.",
+  "t": 4317
+ },
+ {
+  "n": 102,
+  "question": "What does the white colour represent on the Torres Strait Islander flag?",
+  "options": {
+   "A": "Peace.",
+   "B": "Strength.",
+   "C": "Unity.",
+   "D": "Freedom."
+  },
+  "correct": "A",
+  "answer": "Peace.",
+  "explanation": "The white colour on the Torres Strait Islander flag represents peace. It is featured in the Dhari, a ceremonial dancer's headdress, and the five-pointed star in the centre of the flag.",
+  "t": 4350
+ },
+ {
+  "n": 103,
+  "question": "What do the points of the white star represent on the Torres Strait Islander flag?",
+  "options": {
+   "A": "The cultures of Torres Strait Island.",
+   "B": "The different regions of Australia.",
+   "C": "The six states of Australia.",
+   "D": "The island groups in the Torres Strait."
+  },
+  "correct": "D",
+  "answer": "The island groups in the Torres Strait.",
+  "explanation": "The points of the white star on the Torres Strait Islander flag represent the island groups in the Torres Strait.",
+  "t": 4392
+ },
+ {
+  "n": 104,
+  "question": "What does the white dancers headdress on the Torres Strait Islander flag symbolize?",
+  "options": {
+   "A": "All Torres Strait Islanders.",
+   "B": "The land.",
+   "C": "The sea.",
+   "D": "Peace."
+  },
+  "correct": "A",
+  "answer": "All Torres Strait Islanders.",
+  "explanation": "On the Torres Strait Islander flag, the white dancer's headdress in the centre is a symbol for all Torres Strait Islanders.",
+  "t": 4436
+ },
+ {
+  "n": 105,
+  "question": "What do the black lines represent on the Torres Strait Islander flag?",
+  "options": {
+   "A": "The Torres Strait Islander people.",
+   "B": "The earth.",
+   "C": "The sea and waves.",
+   "D": "The peace and harmony."
+  },
+  "correct": "A",
+  "answer": "The Torres Strait Islander people.",
+  "explanation": "The black lines on the Torres Strait Islander flag represent the Torres Strait Islander people. These lines are a significant element of the flag symbolizing the community and their identity.",
+  "t": 4474
+ },
+ {
+  "n": 106,
+  "question": "What does the blue panel in the centre on the Torres Strait Islander flag represent?",
+  "options": {
+   "A": "The sky.",
+   "B": "The sea.",
+   "C": "The moon.",
+   "D": "The land."
+  },
+  "correct": "B",
+  "answer": "The sea.",
+  "explanation": "The blue panel in the centre of the Torres Strait Islander flag represents the sea.",
+  "t": 4522
+ },
+ {
+  "n": 107,
+  "question": "What do the green stripes on the Torres Strait Islander flag represent?",
+  "options": {
+   "A": "The land.",
+   "B": "The sky.",
+   "C": "The sea.",
+   "D": "The islands."
+  },
+  "correct": "A",
+  "answer": "The land.",
+  "explanation": "The green stripes on the Torres Strait Islander flag represent the land. These stripes are located at the top and bottom of the flag symbolizing the connection of the Torres Strait Islander people to their land.",
+  "t": 4558
+ },
+ {
+  "n": 108,
+  "question": "What are the colours of the Torres Strait Islander flag?",
+  "options": {
+   "A": "Green, blue, black, and white.",
+   "B": "Blue, red, white, and black.",
+   "C": "Green, yellow, blue, and red.",
+   "D": "Black, white, and gold."
+  },
+  "correct": "A",
+  "answer": "Green, blue, black, and white.",
+  "explanation": "The Torres Strait Islander flag is green, blue, black, and white.",
+  "t": 4601
+ },
+ {
+  "n": 109,
+  "question": "What forms the background of the Commonwealth coat of arms?",
+  "options": {
+   "A": "The Commonwealth Star.",
+   "B": "The Southern Cross.",
+   "C": "B. Australian flag.",
+   "D": "The Golden WLE."
+  },
+  "correct": "D",
+  "answer": "The Golden WLE.",
+  "explanation": "The background of the Commonwealth coat of arms is formed by the Golden Wattle which is Australia's national floral emblem.",
+  "t": 4646
+ },
+ {
+  "n": 110,
+  "question": "What is located above the shield in the Commonwealth coat of arms?",
+  "options": {
+   "A": "The gold Commonwealth Star.",
+   "B": "The Australian flag.",
+   "C": "The Southern Cross.",
+   "D": "The crown."
+  },
+  "correct": "A",
+  "answer": "The gold Commonwealth Star.",
+  "explanation": "Above the shield in the Commonwealth coat of arms is the seven-pointed gold Commonwealth Star, also known as the Star of Federation.",
+  "t": 4684
+ },
+ {
+  "n": 111,
+  "question": "Why are the kangaroo and emu used in the Commonwealth coat of arms?",
+  "options": {
+   "A": "Because they are native Australian animals.",
+   "B": "Because they represent courage.",
+   "C": "Because they symbolize equality.",
+   "D": "They were chosen randomly."
+  },
+  "correct": "A",
+  "answer": "Because they are native Australian animals.",
+  "explanation": "The kangaroo and emu are used in the Commonwealth coat of arms because they are native to Australia and are well-known symbols of the country's unique wildlife.",
+  "t": 4727
+ },
+ {
+  "n": 112,
+  "question": "Which animals support the shield in the Commonwealth coat of arms?",
+  "options": {
+   "A": "E mu and platypus.",
+   "B": "Koala and kangaroo.",
+   "C": "Kangaroo and mu.",
+   "D": "Wombat and kangaroo."
+  },
+  "correct": "C",
+  "answer": "Kangaroo and emu.",
+  "explanation": "The shield in the Commonwealth coat of arms is supported by a kangaroo and an emu, both native to Australia.",
+  "t": 4771
+ },
+ {
+  "n": 113,
+  "question": "Which is the national animal of Australia?",
+  "options": {
+   "A": "Tiger.",
+   "B": "Elephant.",
+   "C": "Kangaroo.",
+   "D": "Emu."
+  },
+  "correct": "C",
+  "answer": "Kangaroo.",
+  "explanation": "The kangaroo is the national animal of Australia. It was officially recognized as a symbol of the country in 1908 when it was included on the Australian Coat of Arms.",
+  "t": 4812
+ },
+ {
+  "n": 114,
+  "question": "What does the shield in the Commonwealth Coat of Arms represent?",
+  "options": {
+   "A": "The federal government.",
+   "B": "The Six States and Federation.",
+   "C": "The National Flower.",
+   "D": "The coat of arms of the UK."
+  },
+  "correct": "B",
+  "answer": "The Six States and Federation.",
+  "explanation": "The shield in the Commonwealth Coat of Arms represents the Six States and Federation of Australia.",
+  "t": 4853
+ },
+ {
+  "n": 115,
+  "question": "What does the Commonwealth Coat of Arms identify?",
+  "options": {
+   "A": "The authority and property of the Commonwealth of Australia.",
+   "B": "The history of British settlement.",
+   "C": "Australian citizenship.",
+   "D": "The rights of indigenous peoples."
+  },
+  "correct": "A",
+  "answer": "The authority and property of the Commonwealth of Australia.",
+  "explanation": "The Commonwealth Coat of Arms identifies the authority and property of the Commonwealth of Australia.",
+  "t": 4896
+ },
+ {
+  "n": 116,
+  "question": "What does the Commonwealth Coat of Arms represent?",
+  "options": {
+   "A": "State sovereignty.",
+   "B": "National unity.",
+   "C": "Federal governance.",
+   "D": "Wildlife preservation."
+  },
+  "correct": "B",
+  "answer": "National unity.",
+  "explanation": "The Commonwealth Coat of Arms represents Australia's national unity.",
+  "t": 4937
+ },
+ {
+  "n": 117,
+  "question": "What does the Commonwealth Coat of Arms symbolize?",
+  "options": {
+   "A": "Her Majesty Queen Elizabeth II.",
+   "B": "The Aboriginal people.",
+   "C": "The Commonwealth of Australia.",
+   "D": "The States of Australia."
+  },
+  "correct": "C",
+  "answer": "The Commonwealth of Australia.",
+  "explanation": "The Commonwealth Coat of Arms symbolizes the Commonwealth of Australia.",
+  "t": 4974
+ },
+ {
+  "n": 118,
+  "question": "What is the Commonwealth Coat of Arms?",
+  "options": {
+   "A": "The official symbol of the Commonwealth of Australia.",
+   "B": "A traditional flag of Australia.",
+   "C": "The emblem of Australia's military forces.",
+   "D": "A symbol for Australian states."
+  },
+  "correct": "A",
+  "answer": "The official symbol of the Commonwealth of Australia.",
+  "explanation": "The Commonwealth Coat of Arms is the official symbol of the Commonwealth of Australia.",
+  "t": 5012
+ },
+ {
+  "n": 119,
+  "question": "What colour are the flowers of the Golden Wattle in spring?",
+  "options": {
+   "A": "Golden yellow.",
+   "B": "Bright red.",
+   "C": "Soft pink.",
+   "D": "Light purple."
+  },
+  "correct": "A",
+  "answer": "Golden yellow.",
+  "explanation": "The flowers of the Golden Wattle (Acacia pycnantha) are golden yellow in spring.",
+  "t": 5056
+ },
+ {
+  "n": 120,
+  "question": "Where does the Golden Wattle mainly grow?",
+  "options": {
+   "A": "Western Australia.",
+   "B": "Northern Australia.",
+   "C": "Southeastern Australia.",
+   "D": "Central Australia."
+  },
+  "correct": "C",
+  "answer": "Southeastern Australia.",
+  "explanation": "The Golden Wattle tree grows mainly in southeastern Australia.",
+  "t": 5094
+ },
+ {
+  "n": 121,
+  "question": "Which is Australia's national flower?",
+  "options": {
+   "A": "Golden Wattle?",
+   "B": "Lily.",
+   "C": "Rose.",
+   "D": "Sunflower."
+  },
+  "correct": "A",
+  "answer": "Golden Wattle.",
+  "explanation": "Australia's national flower is the Golden Wattle acacia pikeantha. Its bright yellow flowers bloom in late winter and spring symbolizing unity and resilience.",
+  "t": 5132
+ },
+ {
+  "n": 122,
+  "question": "What colours are usually worn by Australia's national sports teams?",
+  "options": {
+   "A": "Green and gold.",
+   "B": "[option not audible in video].",
+   "C": "Blue and red.",
+   "D": "Yellow and orange."
+  },
+  "correct": "A",
+  "answer": "Green and gold.",
+  "explanation": "The uniforms of Australian national sports teams are usually green and gold.",
+  "t": 5172
+ },
+ {
+  "n": 123,
+  "question": "What are Australia's national colours?",
+  "options": {
+   "A": "Green and gold.",
+   "B": "Blue and white.",
+   "C": "Red and yellow.",
+   "D": "Black and orange."
+  },
+  "correct": "A",
+  "answer": "Green and gold.",
+  "explanation": "Australia's national colours are green and gold. These colours are inspired by the Golden Wattle, Australia's national flower.",
+  "t": 5209
+ },
+ {
+  "n": 124,
+  "question": "Why is opal important to Australia?",
+  "options": {
+   "A": "It is the national gemstone and linked to Aboriginal stories.",
+   "B": "It is the rarest gemstone in the world.",
+   "C": "It is mined only in one region of Australia.",
+   "D": "It represents Australian cultural heritage."
+  },
+  "correct": "A",
+  "answer": "It is the national gemstone and linked to Aboriginal stories.",
+  "explanation": "The opal is Australia's national gemstone. Recognized for its unique beauty and cultural significance. It also holds a special place in Aboriginal stories and traditions. symbolizing a rich connection to the land.",
+  "t": 5249
+ },
+ {
+  "n": 125,
+  "question": "What is Australia's national gemstone?",
+  "options": {
+   "A": "Opal.",
+   "B": "Diamond.",
+   "C": "Sapphire.",
+   "D": "Emerald."
+  },
+  "correct": "A",
+  "answer": "Opal.",
+  "explanation": "The opal is Australia's national gemstone.",
+  "t": 5303
+ },
+ {
+  "n": 126,
+  "question": "When is the national anthem of Australia sung?",
+  "options": {
+   "A": "Only at official government events.",
+   "B": "On occasions of national importance, such as citizenship ceremonies and sporting events.",
+   "C": "Only at military ceremonies.",
+   "D": "At every public gathering."
+  },
+  "correct": "B",
+  "answer": "On occasions of national importance, such as citizenship ceremonies and sporting events.",
+  "explanation": "The national anthem of Australia is sung on occasions of national importance, including at Australian citizenship ceremonies and major sporting events.",
+  "t": 5336
+ },
+ {
+  "n": 127,
+  "question": "What is the national anthem of Australia?",
+  "options": {
+   "A": "Advance Australia Fair.",
+   "B": "Waltzing Matilda.",
+   "C": "God save the queen.",
+   "D": "Land down under."
+  },
+  "correct": "A",
+  "answer": "Advance Australia Fair.",
+  "explanation": "Advance Australia Fair is Australia's national anthem.",
+  "t": 5388
+ },
+ {
+  "n": 128,
+  "question": "What song is commonly sung in Australia to express pride and joy?",
+  "options": {
+   "A": "God Save the King.",
+   "B": "The Star Spangled Banner.",
+   "C": "Advance Australia Fair.",
+   "D": "None of the above."
+  },
+  "correct": "C",
+  "answer": "Advance Australia Fair.",
+  "explanation": "A song commonly sung in Australia to express pride and joy is the national anthem, Advance Australia Fair. This anthem is a powerful symbol of national pride and unity, often performed at significant events such as sporting competitions, official ceremonies, and public gatherings.",
+  "t": 5425
+ },
+ {
+  "n": 129,
+  "question": "What do you pledge at the citizenship ceremony?",
+  "options": {
+   "A": "To follow only federal laws.",
+   "B": "To share Australia's democratic beliefs and respect its rights and liberties.",
+   "C": "To learn the history of Australia.",
+   "D": "To promote Australian culture."
+  },
+  "correct": "B",
+  "answer": "To share Australia's democratic beliefs and respect its rights and liberties.",
+  "explanation": "At the citizenship ceremony, you pledge to share Australia's democratic beliefs and respect its rights and liberties.",
+  "t": 5482
+ },
+ {
+  "n": 130,
+  "question": "Which of these statements about Australia's system of government is correct?",
+  "options": {
+   "A": "The king of Australia chooses people to form the Australian Parliament.",
+   "B": "The government is elected by the people.",
+   "C": "The prime minister chooses our members of parliament.",
+   "D": "Members of parliament appoint themselves."
+  },
+  "correct": "B",
+  "answer": "The government is elected by the people.",
+  "explanation": "Australia's democratic system ensures that the government is chosen through elections by the people.",
+  "t": 5530
+ },
+ {
+  "n": 131,
+  "question": "What must parliamentary representatives do as part of their role?",
+  "options": {
+   "A": "Follow the orders of the prime minister.",
+   "B": "Answer to the people through elections for the decisions they make.",
+   "C": "Ignore public opinions.",
+   "D": "Make decisions without consultation."
+  },
+  "correct": "B",
+  "answer": "Answer to the people through elections for the decisions they make.",
+  "explanation": "The representatives in parliament must answer to the people through elections for the decisions they make.",
+  "t": 5574
+ },
+ {
+  "n": 132,
+  "question": "Where does the power of the Australian government come from?",
+  "options": {
+   "A": "The Australian people.",
+   "B": "The Constitution.",
+   "C": "The Governor-General.",
+   "D": "The prime minister."
+  },
+  "correct": "A",
+  "answer": "The Australian people.",
+  "explanation": "The power of the government comes from the Australian people because Australian citizens vote for people to represent them in parliament.",
+  "t": 5621
+ },
+ {
+  "n": 133,
+  "question": "What is a parliamentary democracy?",
+  "options": {
+   "A": "A system where the government controls all decisions.",
+   "B": "A system where citizens vote for representatives to make decisions on their behalf.",
+   "C": "A system where the people have no power.",
+   "D": "A system where decisions are made by the monarchy."
+  },
+  "correct": "B",
+  "answer": "A system where citizens vote for representatives to make decisions on their behalf.",
+  "explanation": "A parliamentary democracy is a system of government where citizens vote for representatives to make decisions on their behalf.",
+  "t": 5663
+ },
+ {
+  "n": 134,
+  "question": "What type of government system does Australia have?",
+  "options": {
+   "A": "Parliamentary democracy.",
+   "B": "Constitutional monarchy.",
+   "C": "Both A and B.",
+   "D": "Presidential democracy."
+  },
+  "correct": "C",
+  "answer": "Both A and B.",
+  "explanation": "Australia has a constitutional monarchy and parliamentary democracy.",
+  "t": 5714
+ },
+ {
+  "n": 135,
+  "question": "What is the political system in Australia?",
+  "options": {
+   "A": "Dictatorship.",
+   "B": "Democracy.",
+   "C": "Autocracy.",
+   "D": "None of the above."
+  },
+  "correct": "B",
+  "answer": "Democracy.",
+  "explanation": "Australia follows a democratic political system where representatives are elected by the people.",
+  "t": 5751
+ },
+ {
+  "n": 136,
+  "question": "Who should follow Australian law?",
+  "options": {
+   "A": "Only government leaders.",
+   "B": "Only community and religious leaders.",
+   "C": "Everyone including the government, community, religious leaders, business people, and police.",
+   "D": "Only business people and police."
+  },
+  "correct": "C",
+  "answer": "Everyone including the government, community, religious leaders, business people and police.",
+  "explanation": "Everyone should follow the Australian law. This includes government, community and religious leaders as well as business people and the police.",
+  "t": 5791
+ },
+ {
+  "n": 137,
+  "question": "What does the rule of law mean in Australia?",
+  "options": {
+   "A": "No person, group, or religious rule is above the law.",
+   "B": "Only powerful leaders must obey the law.",
+   "C": "Laws apply only to government officials.",
+   "D": "The police enforce laws selectively."
+  },
+  "correct": "A",
+  "answer": "No person, group or religious rule is above the law.",
+  "explanation": "The rule of law means that no person, group, or religious rule is above the law.",
+  "t": 5844
+ },
+ {
+  "n": 138,
+  "question": "Does sexual orientation affect how Australians are expected to treat each other under the law?",
+  "options": {
+   "A": "Yes, it defines certain legal exceptions.",
+   "B": "No. Everyone is treated with dignity and respect under Australian law.",
+   "C": "No, but only in specific circumstances.",
+   "D": "Yes, it overrides other legal principles."
+  },
+  "correct": "B",
+  "answer": "No. Everyone is treated with dignity and respect under Australian law.",
+  "explanation": "All Australians are expected to treat each other with dignity and respect regardless of their race, country of origin, gender, sexual orientation, marital status, age, disability, heritage, culture, politics, wealth, or religion?",
+  "t": 5889
+ },
+ {
+  "n": 139,
+  "question": "Which of the following freedoms do Australians have?",
+  "options": {
+   "A": "Freedom of speech, expression, association, and religion.",
+   "B": "Freedom to ignore laws.",
+   "C": "Freedom from paying taxes.",
+   "D": "None of the above."
+  },
+  "correct": "A",
+  "answer": "Freedom of speech, expression, association, and religion.",
+  "explanation": "Australians enjoy several fundamental freedoms, including freedom of speech, expression, association, and religion.",
+  "t": 5954
+ },
+ {
+  "n": 140,
+  "question": "Are Australians allowed to peacefully protest against the government?",
+  "options": {
+   "A": "No, they are not allowed.",
+   "B": "Yes, but only in private.",
+   "C": "Yes, as it is part of democracy.",
+   "D": "No, protests are illegal."
+  },
+  "correct": "C",
+  "answer": "Yes, as it is part of democracy.",
+  "explanation": "Australians are allowed to peacefully protest against the actions of the government because tolerance of peaceful public protest is an essential part of democracy.",
+  "t": 6002
+ },
+ {
+  "n": 141,
+  "question": "In Australia, how can people protest against a government action or an organisation?",
+  "options": {
+   "A": "People can protest peacefully without harming others or damaging property.",
+   "B": "People can protest by blocking roads and causing disruptions.",
+   "C": "People can protest by using violent methods.",
+   "D": "People can protest without any legal restrictions."
+  },
+  "correct": "A",
+  "answer": "People can protest peacefully without harming others or damaging property.",
+  "explanation": "In Australia, protests are allowed as long as they are peaceful and do not harm others or damage property.",
+  "t": 6069
+ },
+ {
+  "n": 142,
+  "question": "What does freedom of expression mean in Australia?",
+  "options": {
+   "A": "People can express their views, including through art, film, music, and literature.",
+   "B": "People can express their views but only through speech.",
+   "C": "People can only express their views in private.",
+   "D": "People can express views through actions only."
+  },
+  "correct": "A",
+  "answer": "People can express their views including through art, film, music and literature.",
+  "explanation": "Freedom of Expression in Australia means that people can express their views, including through art, film, music, and literature.",
+  "t": 6122
+ },
+ {
+  "n": 143,
+  "question": "What are Australians allowed to do under freedom of speech?",
+  "options": {
+   "A": "Refuse to participate in elections to express disagreement.",
+   "B": "Ignore laws while protesting against the government.",
+   "C": "Criticize the government, protest peacefully against government decisions, and campaign to change laws.",
+   "D": "Spread hate speech against certain groups."
+  },
+  "correct": "C",
+  "answer": "Criticize the government, protest peacefully against government decisions, and campaign to change laws.",
+  "explanation": "Under freedom of speech, people can criticize the government, protest peacefully against government decisions, and campaign to change laws so long as at all times they are still obeying Australian laws.",
+  "t": 6174
+ },
+ {
+  "n": 144,
+  "question": "What does freedom of speech mean in Australia?",
+  "options": {
+   "A": "People can spread false information freely.",
+   "B": "People can avoid following the law.",
+   "C": "People can incite violence against others.",
+   "D": "People can say and write what they think and discuss ideas."
+  },
+  "correct": "D",
+  "answer": "People can say and write what they think and discuss ideas.",
+  "explanation": "Freedom of speech means people can say and write what they think and discuss their ideas with others.",
+  "t": 6237
+ },
+ {
+  "n": 145,
+  "question": "What is a core Australian value that supports the democratic system?",
+  "options": {
+   "A": "Freedom of speech.",
+   "B": "Freedom to disobey laws.",
+   "C": "Freedom to avoid taxes.",
+   "D": "Freedom to ignore authority."
+  },
+  "correct": "A",
+  "answer": "Freedom of speech.",
+  "explanation": "Freedom of speech is a core Australian value and underpins the democratic system.",
+  "t": 6281
+ },
+ {
+  "n": 146,
+  "question": "Can Australians gather with others to protest against government actions or organisations?",
+  "options": {
+   "A": "No. Protests are not allowed in Australia.",
+   "B": "Yes. As long as the gathering is peaceful and obeys the law.",
+   "C": "Yes, but only for political reasons.",
+   "D": "No. Protests are illegal in Australia."
+  },
+  "correct": "B",
+  "answer": "Yes, as long as the gathering is peaceful and obeys the law.",
+  "explanation": "Yes, Australians can gather with others to protest against government action or an organisation as long as it is peaceful and obeys the law.",
+  "t": 6324
+ },
+ {
+  "n": 147,
+  "question": "Can religious laws go against the laws in Australia?",
+  "options": {
+   "A": "No, religious laws never conflict with Australian law.",
+   "B": "Yes, all religious laws conflict with Australian law.",
+   "C": "Yes, some religious or cultural practices such as polygamy and forced marriage are against the Australian law.",
+   "D": "There are no religious laws in Australia."
+  },
+  "correct": "C",
+  "answer": "Yes, some religious or cultural practices such as polygamy and forced marriage are against the Australian law.",
+  "explanation": "Some religious or cultural practices such as polygamy, being married to more than one person at the same time, and forced marriages are against the law in Australia and can result in severe legal penalties including imprisonment.",
+  "t": 6376
+ },
+ {
+  "n": 148,
+  "question": "Which religion should you follow in Australia?",
+  "options": {
+   "A": "Christianity as most of the people there are Christians.",
+   "B": "Buddhism as it is a religion of peace.",
+   "C": "Islam as it the religion of most of the people in Australia.",
+   "D": "You can choose any religion you want."
+  },
+  "correct": "D",
+  "answer": "You can choose any religion you want.",
+  "explanation": "Australia has no official national religion and people in Australia are free to follow any religion they choose.",
+  "t": 6442
+ },
+ {
+  "n": 149,
+  "question": "Which is the Australia's official religion?",
+  "options": {
+   "A": "Christianity.",
+   "B": "Buddhism.",
+   "C": "Islam.",
+   "D": "There is no official religion in Australia."
+  },
+  "correct": "D",
+  "answer": "There is no official religion in Australia.",
+  "explanation": "Australia has no official national religion and people in Australia are free to follow any religion they choose.",
+  "t": 6491
+ },
+ {
+  "n": 150,
+  "question": "What happens when there is a conflict between Australian law and religious practice?",
+  "options": {
+   "A": "Australian law prevails.",
+   "B": "The religious practice prevails.",
+   "C": "The matter dissolves because both laws are equally important.",
+   "D": "Religious practices are prioritized."
+  },
+  "correct": "A",
+  "answer": "Australian law prevails.",
+  "explanation": "Yes. In Australia, when there is a conflict between a religious practice and Australian law, the law takes precedence. This principle ensures that all individuals and organisations adhere to the legal framework established by the government, even if it means limiting certain religious practices.",
+  "t": 6531
+ },
+ {
+  "n": 151,
+  "question": "Can people in Australia choose not to follow a religion?",
+  "options": {
+   "A": "No, people must follow at least one religion.",
+   "B": "No. All Australians must follow Christianity.",
+   "C": "Yes, but only if they are not Australian citizens.",
+   "D": "Yes, people can choose not to follow any religion."
+  },
+  "correct": "D",
+  "answer": "Yes, people can choose not to follow any religion.",
+  "explanation": "In Australia, people have the freedom to follow any religion or choose not to follow a religion at all.",
+  "t": 6588
+ },
+ {
+  "n": 152,
+  "question": "What does it mean that Australia's government is secular?",
+  "options": {
+   "A": "The government operates separately from churches or other religious entities.",
+   "B": "The government is run by religious leaders.",
+   "C": "The government controls religious institutions.",
+   "D": "The government follows a specific religion."
+  },
+  "correct": "A",
+  "answer": "The government operates separately from churches or other religious entities.",
+  "explanation": "The government in Australia is secular, which means it operates separately from churches or other religious entities.",
+  "t": 6636
+ },
+ {
+  "n": 153,
+  "question": "Which of the following statements is true?",
+  "options": {
+   "A": "The government in Australia promotes one religion?",
+   "B": "The government in Australia enforces religion.",
+   "C": "The government in Australia is secular.",
+   "D": "The government in Australia bans all religions."
+  },
+  "correct": "C",
+  "answer": "The government in Australia is secular.",
+  "explanation": "The government in Australia is secular, which means it operates separately from churches or other religious entities.",
+  "t": 6684
+ },
+ {
+  "n": 154,
+  "question": "How do many Australians identify themselves?",
+  "options": {
+   "A": "As Buddhists.",
+   "B": "As Christians.",
+   "C": "As Muslims.",
+   "D": "As Hindus."
+  },
+  "correct": "B",
+  "answer": "As Christians.",
+  "explanation": "Today many Australians identify themselves as Christians.",
+  "t": 6730
+ },
+ {
+  "n": 155,
+  "question": "What kind of heritage does Australia have?",
+  "options": {
+   "A": "Hindu heritage.",
+   "B": "Hindu-Islamic heritage.",
+   "C": "Afro-American heritage.",
+   "D": "Judeo-Christian heritage."
+  },
+  "correct": "D",
+  "answer": "Judeo-Christian heritage.",
+  "explanation": "Australia has a Judeo-Christian heritage.",
+  "t": 6764
+ },
+ {
+  "n": 156,
+  "question": "What are the laws regarding divorce in Australia?",
+  "options": {
+   "A": "It is not acceptable.",
+   "B": "It is acceptable.",
+   "C": "It is appreciated.",
+   "D": "There are no laws regarding divorce in Australia."
+  },
+  "correct": "B",
+  "answer": "It is acceptable.",
+  "explanation": "Divorce is acceptable in Australia.",
+  "t": 6801
+ },
+ {
+  "n": 157,
+  "question": "In Australia, what do both men and women have equal access to?",
+  "options": {
+   "A": "Education, employment, and voting rights.",
+   "B": "The right to stand for parliament. Join the defence force and police.",
+   "C": "Equal treatment in courts and access to social services.",
+   "D": "All of the above."
+  },
+  "correct": "D",
+  "answer": "All of the above.",
+  "explanation": "In Australia, both men and women have equal access to education, employment, and voting rights. They also have the right to stand for parliament, join the defence force and police, and receive equal treatment in courts and access to social services.",
+  "t": 6838
+ },
+ {
+  "n": 158,
+  "question": "What do Australian laws say about discrimination?",
+  "options": {
+   "A": "Equality is optional.",
+   "B": "Only some people are equal.",
+   "C": "It depends on the case.",
+   "D": "Everyone must be treated equally."
+  },
+  "correct": "D",
+  "answer": "Everyone must be treated equally.",
+  "explanation": "Australian laws prohibit discrimination based on attributes such as age, disability, race, sex, gender identity, and sexual orientation.",
+  "t": 6892
+ },
+ {
+  "n": 159,
+  "question": "Do men and women have equal rights in Australia?",
+  "options": {
+   "A": "Yes.",
+   "B": "No.",
+   "C": "Only in some situations.",
+   "D": "Depends on the state."
+  },
+  "correct": "A",
+  "answer": "Yes.",
+  "explanation": "Yes, men and women have equal rights in Australia.",
+  "t": 6936
+ },
+ {
+  "n": 160,
+  "question": "How does Australian society promote equal opportunity?",
+  "options": {
+   "A": "By prioritizing wealth over talent.",
+   "B": "By avoiding formal class distinctions.",
+   "C": "By creating opportunities for the wealthy.",
+   "D": "By giving preference to people living in cities."
+  },
+  "correct": "B",
+  "answer": "By avoiding formal class distinctions.",
+  "explanation": "Australian society promotes equal opportunity by avoiding formal class distinctions and ensuring fairness for all.",
+  "t": 6974
+ },
+ {
+  "n": 161,
+  "question": "What does a fair go mean in Australian society?",
+  "options": {
+   "A": "Achievements in life should be based on talent, work, and effort, not health or background.",
+   "B": "Everyone should receive equal outcomes regardless of effort.",
+   "C": "Success depends entirely on personal connections and privilege.",
+   "D": "Only certain groups are given opportunities to succeed."
+  },
+  "correct": "A",
+  "answer": "Achievements in life should be based on talent, work and effort, not health or background.",
+  "explanation": "A fair go means that success should be based on talent, work and effort, not factors like health or background.",
+  "t": 7022
+ },
+ {
+  "n": 162,
+  "question": "When called upon, Australian citizens have a responsibility to:",
+  "options": {
+   "A": "Avoid jury duty.",
+   "B": "Serve on a jury.",
+   "C": "Pay a fee to avoid jury duty.",
+   "D": "Only serve on a jury if they want to."
+  },
+  "correct": "B",
+  "answer": "Serve on a jury.",
+  "explanation": "When called upon, Australian citizens have a responsibility to serve on a jury. This duty ensures that individuals receive a fair trial by having their case heard and decided by a group of their peers.",
+  "t": 7078
+ },
+ {
+  "n": 163,
+  "question": "Australian citizens have the right to:",
+  "options": {
+   "A": "Ignore the law.",
+   "B": "Apply for an Australian passport and re-enter Australia freely.",
+   "C": "Live illegally overseas.",
+   "D": "Work without a permit in any country."
+  },
+  "correct": "B",
+  "answer": "Apply for an Australian passport and re-enter Australia freely.",
+  "explanation": "Australian citizens have the right to apply for an Australian passport and return to Australia without restrictions.",
+  "t": 7126
+ },
+ {
+  "n": 164,
+  "question": "Australian citizens can seek employment in:",
+  "options": {
+   "A": "Any country without a work permit?",
+   "B": "Only private companies.",
+   "C": "The Australian public service or in the Australian Defence Force.",
+   "D": "Only multinational corporations."
+  },
+  "correct": "C",
+  "answer": "The Australian Public Service or in the Australian Defence Force.",
+  "explanation": "Australian citizens can seek employment in the Australian Public Service or Defence Force.",
+  "t": 7171
+ },
+ {
+  "n": 165,
+  "question": "What is a privilege of being an Australian citizen?",
+  "options": {
+   "A": "Chance to receive a free house.",
+   "B": "Permit to drive without a license.",
+   "C": "Right to vote in federal and state or territory elections and in a referendum.",
+   "D": "Freedom from paying taxes."
+  },
+  "correct": "C",
+  "answer": "Right to vote in federal and state or territory elections and in a referendum.",
+  "explanation": "One of the privileges of being an Australian citizen is the right to vote in federal and state or territory elections and in a referendum.",
+  "t": 7215
+ },
+ {
+  "n": 166,
+  "question": "Who must obey the laws of Australia?",
+  "options": {
+   "A": "All citizens and everyone in Australia.",
+   "B": "Only Australian-born citizens.",
+   "C": "Only travelers.",
+   "D": "Only government officials."
+  },
+  "correct": "A",
+  "answer": "All citizens and everyone in Australia.",
+  "explanation": "Everyone living in Australia, whether a citizen or otherwise, must obey the laws of Australia.",
+  "t": 7267
+ },
+ {
+  "n": 167,
+  "question": "What may happen if someone disobeys Australian laws?",
+  "options": {
+   "A": "Nothing.",
+   "B": "They may be allowed to break more laws.",
+   "C": "They may be arrested and taken to court.",
+   "D": "They receive a warning."
+  },
+  "correct": "C",
+  "answer": "They may be arrested and taken to court.",
+  "explanation": "Disobeying the law in Australia can lead to legal consequences, including court trials.",
+  "t": 7308
+ },
+ {
+  "n": 168,
+  "question": "Is voting mandatory in federal and state elections in Australia?",
+  "options": {
+   "A": "No, it is optional.",
+   "B": "Yes, for all eligible citizens.",
+   "C": "Yes, but only for young adults.",
+   "D": "It depends on the state."
+  },
+  "correct": "B",
+  "answer": "Yes, for all eligible citizens.",
+  "explanation": "Voting is compulsory in federal and state or territory elections.",
+  "t": 7363
+ },
+ {
+  "n": 169,
+  "question": "What is a referendum in Australia?",
+  "options": {
+   "A": "A vote to elect a new government.",
+   "B": "A vote to change the Australian Constitution.",
+   "C": "A vote to decide on local issues.",
+   "D": "A vote to change political parties."
+  },
+  "correct": "B",
+  "answer": "A vote to change the Australian Constitution.",
+  "explanation": "A referendum is a vote to change the Australian Constitution.",
+  "t": 7405
+ },
+ {
+  "n": 170,
+  "question": "What is voting for Australian citizens aged 18 years or over?",
+  "options": {
+   "A": "A responsibility, right, and privilege?",
+   "B": "A civic duty and legal obligation.",
+   "C": "A personal choice without consequences.",
+   "D": "A government requirement only."
+  },
+  "correct": "A",
+  "answer": "A responsibility, right, and privilege.",
+  "explanation": "Voting is considered a responsibility, right, and privilege for Australian citizens aged 18 or over.",
+  "t": 7446
+ },
+ {
+  "n": 171,
+  "question": "At what age are Australian citizens required to vote in federal and state or territory elections?",
+  "options": {
+   "A": "16 years or over.",
+   "B": "18 years or over.",
+   "C": "21 years or over.",
+   "D": "25 years or over."
+  },
+  "correct": "B",
+  "answer": "18 years or over.",
+  "explanation": "Australian citizens are required to vote in federal and state or territory elections once they reach the age of 18.",
+  "t": 7493
+ },
+ {
+  "n": 172,
+  "question": "Who can apply for a job in the Australian Defence Force?",
+  "options": {
+   "A": "Only Australian citizens?",
+   "B": "Only people with military experience.",
+   "C": "Only people with a university degree.",
+   "D": "All Australian citizens."
+  },
+  "correct": "D",
+  "answer": "All Australian citizens.",
+  "explanation": "All Australian citizens can apply for a job in the Australian Defence Force regardless of experience or education.",
+  "t": 7538
+ },
+ {
+  "n": 173,
+  "question": "Is service in the Australian Defence Force compulsory?",
+  "options": {
+   "A": "Yes, service is mandatory.",
+   "B": "No, it is voluntary.",
+   "C": "Yes, everyone must serve at least one year.",
+   "D": "No, only a few are required to serve."
+  },
+  "correct": "B",
+  "answer": "No, it is voluntary.",
+  "explanation": "Service in the Australian Defence Force is voluntary. It is not compulsory for all citizens to serve.",
+  "t": 7582
+ },
+ {
+  "n": 174,
+  "question": "Why is jury service important in Australia?",
+  "options": {
+   "A": "It ensures that courts remain open and fair.",
+   "B": "It speeds up court decisions.",
+   "C": "It helps reduce crime.",
+   "D": "It is a form of civic reward."
+  },
+  "correct": "A",
+  "answer": "It ensures that courts remain open and fair.",
+  "explanation": "Jury service is important in Australia because it ensures that courts remain open and fair.",
+  "t": 7625
+ },
+ {
+  "n": 175,
+  "question": "Who can be called to serve on a jury in Australia?",
+  "options": {
+   "A": "Any Australian citizen.",
+   "B": "Australian citizens on the electoral roll.",
+   "C": "Only lawyers.",
+   "D": "Australian citizens over 30."
+  },
+  "correct": "B",
+  "answer": "Australian citizens on the electoral roll.",
+  "explanation": "Australian citizens who are on the electoral roll can be called to serve on a jury.",
+  "t": 7668
+ },
+ {
+  "n": 176,
+  "question": "What is a jury in Australia?",
+  "options": {
+   "A": "A group of judges.",
+   "B": "A group of lawyers advising the court.",
+   "C": "A group of ordinary Australian men and women.",
+   "D": "A panel of police officers."
+  },
+  "correct": "C",
+  "answer": "A group of ordinary Australian men and women.",
+  "explanation": "A jury is a group of ordinary Australian men and women who listen to the evidence in a court case and decide if a person is guilty or not guilty.",
+  "t": 7709
+ },
+ {
+  "n": 177,
+  "question": "Who must serve on a jury in Australia?",
+  "options": {
+   "A": "Australian citizens aged 18 or older.",
+   "B": "Anyone living in Australia.",
+   "C": "Only lawyers and judges.",
+   "D": "People working in courts."
+  },
+  "correct": "A",
+  "answer": "Australian citizens aged 18 or older.",
+  "explanation": "Jury service. if requested is a responsibility for Australian citizens aged 18 years or over.",
+  "t": 7753
+ },
+ {
+  "n": 178,
+  "question": "What is considered both an honour and a serious responsibility in Australia?",
+  "options": {
+   "A": "Serving in the Australian Parliament.",
+   "B": "Being eligible to vote in elections.",
+   "C": "Representing a sports team.",
+   "D": "Running a community event."
+  },
+  "correct": "A",
+  "answer": "Serving in the Australian Parliament.",
+  "explanation": "Serving in the Australian Parliament is considered both an honour and a serious responsibility. Members of parliament represent the interests of their constituents, make important decisions on national policies and contribute to the governance and future direction of the country.",
+  "t": 7795
+ },
+ {
+  "n": 179,
+  "question": "Who can seek election to the Australian Parliament at the federal, state or territory level?",
+  "options": {
+   "A": "Australian citizens aged 18 or over and who are not dual citizens.",
+   "B": "Only Australian citizens.",
+   "C": "Anyone living in Australia?",
+   "D": "Citizens of any country."
+  },
+  "correct": "A",
+  "answer": "Australian citizens aged 18 or over and who are not dual citizens.",
+  "explanation": "Australian citizens who are aged 18 years or over and who are not dual citizens can seek election to parliament at the federal, state or territory level.",
+  "t": 7849
+ },
+ {
+  "n": 180,
+  "question": "What happens when an Australian citizen travels overseas?",
+  "options": {
+   "A": "They can return to Australia without needing a visa.",
+   "B": "They must apply for a visa to return.",
+   "C": "They are required to apply for a residence permit.",
+   "D": "They can only return on a tourist visa."
+  },
+  "correct": "A",
+  "answer": "They can return to Australia without needing a visa.",
+  "explanation": "When Australian citizens travel overseas, they are free to return to Australia without the need for a visa.",
+  "t": 7903
+ },
+ {
+  "n": 181,
+  "question": "When you become an Australian citizen, what right do you have?",
+  "options": {
+   "A": "The right to live freely in Australia.",
+   "B": "The right to leave Australia whenever you want.",
+   "C": "The right to work in any country.",
+   "D": "The right to break Australian laws."
+  },
+  "correct": "A",
+  "answer": "The right to live freely in Australia.",
+  "explanation": "When you become an Australian citizen, you have the right to live freely in Australia.",
+  "t": 7949
+ },
+ {
+  "n": 182,
+  "question": "What must Australian citizens do when in another country?",
+  "options": {
+   "A": "Obey the laws of that country.",
+   "B": "Ignore local laws if they seem unfair.",
+   "C": "Only obey the laws if you're also a citizen of that country.",
+   "D": "Only follow the laws of Australia."
+  },
+  "correct": "A",
+  "answer": "Obey the laws of that country.",
+  "explanation": "When in another country, you must obey the laws of that country.",
+  "t": 7989
+ },
+ {
+  "n": 183,
+  "question": "While overseas, who can Australian citizens turn to for help in times of need?",
+  "options": {
+   "A": "An Australian government official.",
+   "B": "Local embassy staff.",
+   "C": "International organisations.",
+   "D": "Travel insurance companies."
+  },
+  "correct": "A",
+  "answer": "An Australian government official.",
+  "explanation": "While overseas, Australian citizens can turn to an Australian government official, such as those at an embassy or consulate, for help in times of need. These officials can provide assistance in emergencies, such as during civil unrest or natural disasters.",
+  "t": 8032
+ },
+ {
+  "n": 184,
+  "question": "What can Australian citizens do for a child born overseas?",
+  "options": {
+   "A": "Apply for them to become an Australian citizen by descent.",
+   "B": "Enroll them in Australian government programs.",
+   "C": "Apply for British residency for the child.",
+   "D": "Register them in Australia's census records."
+  },
+  "correct": "A",
+  "answer": "Apply for them to become an Australian citizen by descent.",
+  "explanation": "Australian citizens can apply for their child born overseas to become an Australian citizen by descent.",
+  "t": 8085
+ },
+ {
+  "n": 185,
+  "question": "How do Australians support the government in providing services?",
+  "options": {
+   "A": "By working and paying taxes.",
+   "B": "By volunteering in government projects.",
+   "C": "By donating to the government.",
+   "D": "By participating in local government elections."
+  },
+  "correct": "A",
+  "answer": "By working and paying taxes.",
+  "explanation": "Australians support the government in providing services by working and paying taxes. These taxes fund essential public services such as health care, education, infrastructure, and social welfare programs for the well-being and development of the community.",
+  "t": 8132
+ },
+ {
+  "n": 186,
+  "question": "How are taxes spent in Australia?",
+  "options": {
+   "A": "On government funded health care, education, defence, roads and social security.",
+   "B": "On private businesses and personal wealth.",
+   "C": "On charity and international aid programs.",
+   "D": "On government salaries only."
+  },
+  "correct": "A",
+  "answer": "On government funded health care, education, defence, roads, and social security.",
+  "explanation": "In Australia, taxes are spent on various essential services including government- funded health care, education, defence, roads, and social security.",
+  "t": 8187
+ },
+ {
+  "n": 187,
+  "question": "How are many of the benefits that Australians enjoy made possible?",
+  "options": {
+   "A": "By international aid.",
+   "B": "Through donations.",
+   "C": "Through taxes.",
+   "D": "By private companies."
+  },
+  "correct": "C",
+  "answer": "Through taxes.",
+  "explanation": "Many of the benefits that Australians enjoy are made possible through taxes.",
+  "t": 8240
+ },
+ {
+  "n": 188,
+  "question": "Who is required to pay taxes in Australia?",
+  "options": {
+   "A": "Only entrepreneurs.",
+   "B": "All housewives.",
+   "C": "Job holders, business owners, and investors.",
+   "D": "Unemployed men."
+  },
+  "correct": "C",
+  "answer": "Job holders, business owners and investors.",
+  "explanation": "In Australia, job holders, business owners and investors are required to pay taxes. These taxes are used to fund essential public services for the well-being and development of the community.",
+  "t": 8279
+ },
+ {
+  "n": 189,
+  "question": "Why is paying taxes important in Australia?",
+  "options": {
+   "A": "It is a way to directly contribute to the Australian community and is required by law.",
+   "B": "It ensures citizens receive higher salaries.",
+   "C": "It helps individuals avoid paying fines.",
+   "D": "It is optional for citizens only."
+  },
+  "correct": "A",
+  "answer": "It is a way to directly contribute to the Australian community and is required by law.",
+  "explanation": "Paying taxes in Australia is important because it funds essential services like health care and education. It is also a legal requirement, ensuring everyone contributes to the nation's well-being.",
+  "t": 8325
+ },
+ {
+  "n": 190,
+  "question": "How can you actively participate in Australian society and make it better?",
+  "options": {
+   "A": "By only attending cultural events.",
+   "B": "By joining local organisations, volunteering and participating in political life.",
+   "C": "By donating money to political parties.",
+   "D": "By focusing solely on personal achievements."
+  },
+  "correct": "B",
+  "answer": "By joining local organisations, volunteering and participating in political life.",
+  "explanation": "You can actively participate in Australian society and make it better by joining local organisations, volunteering, and participating in political life. These activities help build stronger communities, support those in need, and ensure your voice is heard in shaping the country's future.",
+  "t": 8382
+ },
+ {
+  "n": 191,
+  "question": "What does Australia encourage all citizens to do?",
+  "options": {
+   "A": "Actively participate in society and shape the country's future.",
+   "B": "Stay neutral and uninvolved in societal matters.",
+   "C": "Only work and pay taxes.",
+   "D": "Focus on individual success."
+  },
+  "correct": "A",
+  "answer": "Actively participate in society and shape the country's future.",
+  "explanation": "Australia encourages all its citizens to actively participate in the society to help shape the country's future.",
+  "t": 8448
+ },
+ {
+  "n": 192,
+  "question": "How can Australian citizens actively participate in society?",
+  "options": {
+   "A": "By focusing on personal success only.",
+   "B": "By only paying taxes and working full-time.",
+   "C": "By staying neutral and avoiding participation.",
+   "D": "By joining neighbourhood and local community organisations and volunteering in social and community work."
+  },
+  "correct": "D",
+  "answer": "By joining neighbourhood and local community organisations and volunteering in social and community work.",
+  "explanation": "Australian citizens can actively participate in society by joining neighbourhood and local community organisations and volunteering to do social and community work.",
+  "t": 8497
+ },
+ {
+  "n": 193,
+  "question": "Who is responsible for collecting taxes in Australia?",
+  "options": {
+   "A": "Australian Taxation Office.",
+   "B": "State Government Agencies.",
+   "C": "Australian Federal Police.",
+   "D": "Australian Treasury Department."
+  },
+  "correct": "A",
+  "answer": "Australian Taxation Office.",
+  "explanation": "The Australian Taxation Office ATO is responsible for tax collection in Australia.",
+  "t": 8555
+ },
+ {
+  "n": 194,
+  "question": "Australia's system of government is:",
+  "options": {
+   "A": "A military dictatorship.",
+   "B": "A monarchy.",
+   "C": "A parliamentary democracy.",
+   "D": "A republic."
+  },
+  "correct": "C",
+  "answer": "A parliamentary democracy.",
+  "explanation": "Australia has a parliamentary democracy where elected representatives make decisions.",
+  "t": 8603
+ },
+ {
+  "n": 195,
+  "question": "In Australia, who must enroll to vote in federal, state, and territory elections?",
+  "options": {
+   "A": "Citizens aged 18 years or over.",
+   "B": "Citizens 21 years or over.",
+   "C": "Citizens working in a private sector.",
+   "D": "Citizens working in a government sector."
+  },
+  "correct": "A",
+  "answer": "Citizens aged 18 years or over.",
+  "explanation": "In Australia, all citizens aged 18 years or over must enroll to vote in federal, state, and territory elections. Enrollment is compulsory by law. Ensuring that eligible citizens participate in the democratic process.",
+  "t": 8637
+ },
+ {
+  "n": 196,
+  "question": "What does AEC stand for?",
+  "options": {
+   "A": "Australian Electoral Commission.",
+   "B": "Australian Environmental Council.",
+   "C": "Australian Education Council.",
+   "D": "Australian Energy Corporation."
+  },
+  "correct": "A",
+  "answer": "Australian Electoral Commission.",
+  "explanation": "AEC stands for Australian Electoral Commission is responsible for managing elections, maintaining the electoral roll and ensuring fair electoral processes in Australia.",
+  "t": 8693
+ },
+ {
+  "n": 197,
+  "question": "Why is voting compulsory in Australia?",
+  "options": {
+   "A": "To encourage people to choose their preferred political party.",
+   "B": "To ensure people have a say in who governs and represents them.",
+   "C": "To make sure only certain people governs the Australia.",
+   "D": "To maintain political neutrality."
+  },
+  "correct": "B",
+  "answer": "To ensure people have a say in who governs and represents them.",
+  "explanation": "Compulsory voting is a way to make sure that the people have a say in who will govern and represent them in parliament.",
+  "t": 8740
+ },
+ {
+  "n": 198,
+  "question": "What happens if you do not vote in an election without a good reason?",
+  "options": {
+   "A": "You may have to pay a fine.",
+   "B": "You may be asked to explain your decision.",
+   "C": "You may be banned from voting in future elections.",
+   "D": "You may lose your Australian citizenship."
+  },
+  "correct": "A",
+  "answer": "You may have to pay a fine.",
+  "explanation": "If you do not vote in an election and do not have a good reason for not voting, you may have to pay a fine.",
+  "t": 8789
+ },
+ {
+  "n": 199,
+  "question": "Who can force you to tell them who you voted for in elections?",
+  "options": {
+   "A": "The mayor of your community?",
+   "B": "Your employer.",
+   "C": "No one.",
+   "D": "A government official."
+  },
+  "correct": "C",
+  "answer": "No one.",
+  "explanation": "In Australia, no one can force you to tell them who you voted for in elections.",
+  "t": 8832
+ },
+ {
+  "n": 200,
+  "question": "In Australia, what freedom do citizens have when voting?",
+  "options": {
+   "A": "They must vote for the party they are a member of.",
+   "B": "They are free and safe to vote for any candidate.",
+   "C": "They must vote for the most wealthy candidate.",
+   "D": "None of the above."
+  },
+  "correct": "B",
+  "answer": "They are free and safe to vote for any candidate.",
+  "explanation": "In Australia, citizens enjoy the freedom to vote for any candidate of their choice in a safe and secure environment.",
+  "t": 8870
+ },
+ {
+  "n": 201,
+  "question": "In Australia, how is voting conducted in elections?",
+  "options": {
+   "A": "By secret ballot.",
+   "B": "By public declaration.",
+   "C": "By open vote.",
+   "D": "By telephone voting."
+  },
+  "correct": "A",
+  "answer": "By secret ballot.",
+  "explanation": "In Australia, voting in an election is by secret ballot. So, you are free and safe to vote for any candidate.",
+  "t": 8934
+ },
+ {
+  "n": 202,
+  "question": "What does secret ballot mean?",
+  "options": {
+   "A": "No one can know who you voted for unless you choose to tell them.",
+   "B": "Voters are not allowed to vote anonymously.",
+   "C": "Voters are required to vote for a particular candidate.",
+   "D": "Voters must vote publicly in front of others."
+  },
+  "correct": "A",
+  "answer": "No one can know who you voted for unless you choose to tell them.",
+  "explanation": "A secret ballot means that voters can cast their vote privately without anyone knowing who they voted for.",
+  "t": 8973
+ },
+ {
+  "n": 203,
+  "question": "What is the Australian Electoral Commission AEC?",
+  "options": {
+   "A": "A political party.",
+   "B": "A state government body.",
+   "C": "A non-government organisation.",
+   "D": "A Commonwealth agency."
+  },
+  "correct": "D",
+  "answer": "A Commonwealth agency.",
+  "explanation": "The AEC is a Commonwealth agency responsible for managing federal elections and maintaining the electoral roll in Australia.",
+  "t": 9019
+ },
+ {
+  "n": 204,
+  "question": "What happens if you are not correctly enrolled for voting in Australia?",
+  "options": {
+   "A": "You cannot vote in an election.",
+   "B": "You are fined.",
+   "C": "You can vote but with limitations.",
+   "D": "None of the above."
+  },
+  "correct": "A",
+  "answer": "You cannot vote in an election.",
+  "explanation": "If you are not correctly enrolled for voting in Australia, you cannot participate in an election.",
+  "t": 9060
+ },
+ {
+  "n": 205,
+  "question": "How do Australian citizens have a say in how Australia is governed?",
+  "options": {
+   "A": "By organizing protests.",
+   "B": "By attending government meetings.",
+   "C": "By voting for a person to represent them in parliament.",
+   "D": "By donating money to political parties."
+  },
+  "correct": "C",
+  "answer": "By voting for a person to represent them in parliament.",
+  "explanation": "Australian citizens have a say in how the country is governed by voting for representatives in parliament. During elections, they choose members of the House of Representatives and the Senate, who then make decisions and create laws on their behalf.",
+  "t": 9101
+ },
+ {
+  "n": 206,
+  "question": "What do you pledge to do at the Australian citizenship ceremony?",
+  "options": {
+   "A": "Uphold and obey the laws of Australia.",
+   "B": "Obey the laws of other countries.",
+   "C": "Live freely without any restrictions.",
+   "D": "Follow the rules only in specific situations."
+  },
+  "correct": "A",
+  "answer": "Uphold and obey the laws of Australia.",
+  "explanation": "At the citizenship ceremony, you pledge to uphold and obey the laws of Australia.",
+  "t": 9154
+ },
+ {
+  "n": 207,
+  "question": "How can Australian citizens raise their concerns about government policy?",
+  "options": {
+   "A": "By contacting international organisations.",
+   "B": "By protesting in the streets.",
+   "C": "By contacting their elected representative.",
+   "D": "By writing to the police."
+  },
+  "correct": "C",
+  "answer": "By contacting their elected representative.",
+  "explanation": "Australian citizens can contact their elected representative to raise their concerns about government policy.",
+  "t": 9198
+ },
+ {
+  "n": 208,
+  "question": "What should an elected representative do if a citizen suggests a change to a law?",
+  "options": {
+   "A": "The elected representative should consider what has been suggested.",
+   "B": "The elected representative should ignore the suggestion.",
+   "C": "The elected representative should immediately pass the change.",
+   "D": "The elected representative should wait for others to suggest it."
+  },
+  "correct": "A",
+  "answer": "The elected representative should consider what has been suggested.",
+  "explanation": "If a citizen suggests a change to a law, the elected representative should consider the suggestion thoughtfully.",
+  "t": 9242
+ },
+ {
+  "n": 209,
+  "question": "When did the separate colonies unite into a federation of states called the Commonwealth of Australia?",
+  "options": {
+   "A": "January 1st, 1901.",
+   "B": "January 1st, 1801.",
+   "C": "January 1st, 2000.",
+   "D": "January 1st, 1950."
+  },
+  "correct": "A",
+  "answer": "January 1st, 1901.",
+  "explanation": "The separate colonies united into a federation of states called the Commonwealth of Australia on January 1st, 1901.",
+  "t": 9291
+ },
+ {
+  "n": 210,
+  "question": "Why did people want a single nation for Australia?",
+  "options": {
+   "A": "To solve problems like expensive trade and weak defence.",
+   "B": "To unify colonies and create a more unified government system.",
+   "C": "To improve national defence and trade costs.",
+   "D": "All of the above."
+  },
+  "correct": "D",
+  "answer": "All of the above.",
+  "explanation": "People wanted a single nation to address problems like expensive trade, weak defence, and the need for a unified government system. These issues were solved by uniting the colonies into one country.",
+  "t": 9339
+ },
+ {
+  "n": 211,
+  "question": "What did each Australian colony have before 1,91?",
+  "options": {
+   "A": "Its own constitution and laws for defence, immigration, postage, trade, and transport.",
+   "B": "A shared set of national laws.",
+   "C": "A single constitution under British rule.",
+   "D": "A federal government overseeing all laws."
+  },
+  "correct": "A",
+  "answer": "Its own constitution and laws for defence, immigration, postage, trade and transport.",
+  "explanation": "Before 1901, each Australian colony had its own constitution and laws which governed areas like defence, immigration, postage, trade, and transport. This made coordination between the colonies difficult.",
+  "t": 9386
+ },
+ {
+  "n": 212,
+  "question": "Before 1901, what was Australia made up of?",
+  "options": {
+   "A": "A group of independent nations.",
+   "B": "One United British colony.",
+   "C": "Six separate self-governing British colonies.",
+   "D": "Seven federal states."
+  },
+  "correct": "C",
+  "answer": "Six separate self-governing British colonies.",
+  "explanation": "Before 1901, Australia was made up of six separate British colonies, each with its own government.",
+  "t": 9447
+ },
+ {
+  "n": 213,
+  "question": "Before 1901, how many separate colonies was Australia made up of?",
+  "options": {
+   "A": "4.",
+   "B": "5.",
+   "C": "6.",
+   "D": "7."
+  },
+  "correct": "C",
+  "answer": "Six.",
+  "explanation": "After British settlement and before 1901, Australia was made up of six separate self-governing British colonies.",
+  "t": 9490
+ },
+ {
+  "n": 214,
+  "question": "In an Australian referendum, what does a double majority refer to?",
+  "options": {
+   "A": "A majority of voters in a majority of states and across the nation must vote for the change.",
+   "B": "A majority of voters from each political party and in each state.",
+   "C": "A majority of voters in each state and a majority of federal politicians must agree.",
+   "D": "A majority of young and old voters must agree on the change."
+  },
+  "correct": "A",
+  "answer": "A majority of voters in a majority of states and across the nation must vote for the change.",
+  "explanation": "A double majority in an Australian referendum means that the proposal must be approved by a majority of voters in a majority of states, at least four out of six states, as well as a majority of voters across the entire nation.",
+  "t": 9528
+ },
+ {
+  "n": 215,
+  "question": "What is required for a constitution to be changed in Australia through a referendum?",
+  "options": {
+   "A": "A simple majority of voters.",
+   "B": "A double majority of voters.",
+   "C": "Only a majority of voters in the capital cities.",
+   "D": "A majority of politicians in parliament."
+  },
+  "correct": "B",
+  "answer": "A double majority of voters.",
+  "explanation": "A double majority of voters is required to change the Australian Constitution through a referendum. This means that the proposed change must be approved by a majority of voters nationwide and a majority of voters in at least four of the six states.",
+  "t": 9596
+ },
+ {
+  "n": 216,
+  "question": "What is a referendum?",
+  "options": {
+   "A": "A vote by the people to change the constitution.",
+   "B": "A vote to elect members of parliament.",
+   "C": "A vote on government policies.",
+   "D": "A vote to appoint the prime minister."
+  },
+  "correct": "A",
+  "answer": "A vote by the people to change the constitution.",
+  "explanation": "A referendum is a vote by the people to change the constitution.",
+  "t": 9649
+ },
+ {
+  "n": 217,
+  "question": "How can the Australian people change the Australian Constitution?",
+  "options": {
+   "A": "By voting in an election.",
+   "B": "By voting in a referendum.",
+   "C": "By protesting against the government.",
+   "D": "By approval from the prime minister."
+  },
+  "correct": "B",
+  "answer": "By voting in a referendum.",
+  "explanation": "The Australian people can change the Constitution by voting in a referendum.",
+  "t": 9688
+ },
+ {
+  "n": 218,
+  "question": "What happened in the 1967 referendum in Australia?",
+  "options": {
+   "A": "More than 90% of Australians voted yes to allow Aboriginal peoples to be counted in the census.",
+   "B": "Australians voted to give Aboriginal peoples the right to vote.",
+   "C": "Aboriginal peoples gained full citizenship rights.",
+   "D": "The Australian Constitution was amended to include Aboriginal peoples in government."
+  },
+  "correct": "A",
+  "answer": "More than 90% of Australians voted yes to allow Aboriginal peoples to be counted in the census.",
+  "explanation": "In the 1967 referendum, more than 90% of Australians voted yes to allow Aboriginal peoples to be counted in the census.",
+  "t": 9728
+ },
+ {
+  "n": 219,
+  "question": "What power does the High Court of Australia have?",
+  "options": {
+   "A": "To create laws for the Australian Parliament.",
+   "B": "To apply and interpret the laws of Australia.",
+   "C": "To review the constitutionality of international treaties.",
+   "D": "To oversee elections in Australia."
+  },
+  "correct": "B",
+  "answer": "To apply and interpret the laws of Australia.",
+  "explanation": "The High Court of Australia has the ultimate power to apply and interpret the laws of Australia.",
+  "t": 9787
+ },
+ {
+  "n": 220,
+  "question": "Who established the High Court of Australia?",
+  "options": {
+   "A": "The Australian Government.",
+   "B": "The Australian Constitution.",
+   "C": "The Parliament of Australia.",
+   "D": "The British Government."
+  },
+  "correct": "B",
+  "answer": "The Australian Constitution.",
+  "explanation": "The High Court of Australia was established by the Australian Constitution. It is the highest court in the country created to interpret and apply the laws of Australia.",
+  "t": 9833
+ },
+ {
+  "n": 221,
+  "question": "What two bodies make up the Australian Parliament?",
+  "options": {
+   "A": "House of Representatives and Senate.",
+   "B": "House of Lords and Senate.",
+   "C": "House of Commons and Senate.",
+   "D": "House of Representatives and Congress."
+  },
+  "correct": "A",
+  "answer": "House of Representatives and Senate.",
+  "explanation": "The Australian Constitution established the Parliament of the Commonwealth of Australia consisting of a House of Representatives and a Senate.",
+  "t": 9874
+ },
+ {
+  "n": 222,
+  "question": "What does the Australian Constitution establish?",
+  "options": {
+   "A": "The Federal Court of Australia.",
+   "B": "The Parliament of the Commonwealth of Australia.",
+   "C": "The Australian Electoral Commission.",
+   "D": "The Australian Cabinet."
+  },
+  "correct": "B",
+  "answer": "The Parliament of the Commonwealth of Australia.",
+  "explanation": "The Australian Constitution established the Parliament of the Commonwealth of Australia, consisting of a House of Representatives and a Senate.",
+  "t": 9917
+ },
+ {
+  "n": 223,
+  "question": "When did the Australian Constitution come into effect, uniting the colonies into one independent nation?",
+  "options": {
+   "A": "January 1st, 1900.",
+   "B": "January 26th, 1901.",
+   "C": "January 1st, 1901.",
+   "D": "January 1st, 1910."
+  },
+  "correct": "C",
+  "answer": "January 1st, 1901.",
+  "explanation": "The Australian Constitution came into effect on January 1st, 1901, uniting the separate colonies into the Commonwealth of Australia. This marked the beginning of Australia as a federated nation.",
+  "t": 9961
+ },
+ {
+  "n": 224,
+  "question": "Which act is the Australian Constitution based on?",
+  "options": {
+   "A": "The Commonwealth of Australia Act 1901.",
+   "B": "The Australian Independence Act 1901.",
+   "C": "The Australian Government Act 1900.",
+   "D": "The Commonwealth of Australia Constitution Act 1900."
+  },
+  "correct": "D",
+  "answer": "The Commonwealth of Australia Constitution Act 1900.",
+  "explanation": "The Australian Constitution is based on the Commonwealth of Australia Constitution Act 1900 UK. This act was passed by the British Parliament and came into effect on January 1st, 1901, establishing the framework for Australia's federal system of government.",
+  "t": 10014
+ },
+ {
+  "n": 225,
+  "question": "What is the Commonwealth of Australia?",
+  "options": {
+   "A": "An independent nation formed by uniting six colonies in 1901.",
+   "B": "A federation of states that became a nation in 1910.",
+   "C": "A government formed from the British colonies in Australia.",
+   "D": "A political system established by the British monarchy."
+  },
+  "correct": "A",
+  "answer": "An independent nation formed by uniting six colonies in 1901.",
+  "explanation": "The Commonwealth of Australia is an independent nation formed on January 1st, 1901 when six self-governing colonies united to become one country.",
+  "t": 10072
+ },
+ {
+  "n": 226,
+  "question": "What is the Commonwealth of Australia Constitution Act 1900?",
+  "options": {
+   "A": "A document that established Australia's first parliament.",
+   "B": "A legal document that sets out the basic rules for the government of Australia.",
+   "C": "A law that gave independence to Australia.",
+   "D": "A document outlining the rights of Australian citizens."
+  },
+  "correct": "B",
+  "answer": "A legal document that sets out the basic rules for the government of Australia.",
+  "explanation": "The Commonwealth of Australia Constitution Act 1900. Australian Constitution is the legal document that sets out the basic rules for the government of Australia.",
+  "t": 10126
+ },
+ {
+  "n": 227,
+  "question": "In which three branches did the Australian Constitution divide the power of government?",
+  "options": {
+   "A": "Legislative, executive and judicial.",
+   "B": "Federal, state and local.",
+   "C": "Administrative, judicial and federal.",
+   "D": "Prime minister, cabinet and parliament."
+  },
+  "correct": "A",
+  "answer": "Legislative, executive, and judicial.",
+  "explanation": "The Australian Constitution divides the power of government between the legislative, parliament, executive, for example, the prime minister and the cabinet and judicial powers, judges to stop one person or one group from holding all the power.",
+  "t": 10182
+ },
+ {
+  "n": 228,
+  "question": "How does the Australian government prevent any one person or group from holding all governmental power?",
+  "options": {
+   "A": "By holding frequent referendums.",
+   "B": "By dividing power of government among legislative, executive, and judicial branches.",
+   "C": "By relying on public opinion.",
+   "D": "By enforcing strict term limits."
+  },
+  "correct": "B",
+  "answer": "By dividing power of government among legislative, executive, and judicial branches.",
+  "explanation": "The Australian government prevents any one person or group from holding all governmental power by dividing the power of government amongst three branches: legislative, executive, and judicial.",
+  "t": 10238
+ },
+ {
+  "n": 229,
+  "question": "How are members of parliament in Australia chosen?",
+  "options": {
+   "A": "They are appointed by the government.",
+   "B": "They are elected by the people.",
+   "C": "They are selected by the judiciary.",
+   "D": "They are nominated by state leaders."
+  },
+  "correct": "B",
+  "answer": "They are elected by the people.",
+  "explanation": "Members of parliament in Australia are chosen through elections. Citizens vote to elect representatives to the House of Representatives and the Senate.",
+  "t": 10298
+ },
+ {
+  "n": 230,
+  "question": "Who holds the power to make and change laws in Australia?",
+  "options": {
+   "A": "Parliament.",
+   "B": "The prime minister.",
+   "C": "The High Court.",
+   "D": "The Governor-General."
+  },
+  "correct": "A",
+  "answer": "Parliament.",
+  "explanation": "In Australia, the Parliament holds the power to make and change laws.",
+  "t": 10340
+ },
+ {
+  "n": 231,
+  "question": "What is the legislative power in Australia?",
+  "options": {
+   "A": "The power to make laws.",
+   "B": "The power to enforce laws.",
+   "C": "The power to interpret laws.",
+   "D": "The power to execute government policies."
+  },
+  "correct": "A",
+  "answer": "The power to make laws.",
+  "explanation": "The legislative power in Australia is the authority to make laws.",
+  "t": 10376
+ },
+ {
+  "n": 232,
+  "question": "What are the Australian government ministers responsible for?",
+  "options": {
+   "A": "Passing laws.",
+   "B": "Managing government departments.",
+   "C": "Appointing judges.",
+   "D": "Overseeing elections."
+  },
+  "correct": "B",
+  "answer": "Managing government departments.",
+  "explanation": "Australian government ministers are responsible for managing government departments.",
+  "t": 10415
+ },
+ {
+  "n": 233,
+  "question": "Who makes up the executive branch of the Australian government?",
+  "options": {
+   "A": "Judges and legal advisers.",
+   "B": "State governors.",
+   "C": "Prime Minister, Government Ministers and Governor-General.",
+   "D": "Elected Parliament members."
+  },
+  "correct": "C",
+  "answer": "Prime Minister, Government Ministers, and Governor-General.",
+  "explanation": "The executive branch of the Australian government includes the prime minister, Australian government ministers, and the Governor-General.",
+  "t": 10453
+ },
+ {
+  "n": 234,
+  "question": "In Australia, who has the power to put laws into practice?",
+  "options": {
+   "A": "The executive, including the prime minister, ministers, and the Governor-General.",
+   "B": "The judiciary, including the high court judges.",
+   "C": "The legislature, including members of parliament.",
+   "D": "The public through voting in elections."
+  },
+  "correct": "A",
+  "answer": "The executive including the prime minister, ministers, and the Governor-General.",
+  "explanation": "In Australia, the executive, which includes the prime minister, ministers, and the Governor-General, is responsible for putting laws into practice.",
+  "t": 10500
+ },
+ {
+  "n": 235,
+  "question": "What is the executive power in Australia?",
+  "options": {
+   "A": "The power to create new laws.",
+   "B": "The power to cancel laws.",
+   "C": "The power to interpret laws.",
+   "D": "The power to put laws into practice."
+  },
+  "correct": "D",
+  "answer": "The power to put laws into practice.",
+  "explanation": "Executive power is the power to put the laws into practice.",
+  "t": 10554
+ },
+ {
+  "n": 236,
+  "question": "Which of the following is true for courts and judges in Australia?",
+  "options": {
+   "A": "They are part of the government.",
+   "B": "They operate independently of parliament and government.",
+   "C": "They are appointed by the prime minister.",
+   "D": "They enforce executive orders."
+  },
+  "correct": "B",
+  "answer": "They operate independently of parliament and government.",
+  "explanation": "The courts and judges are independent of the parliament and government.",
+  "t": 10592
+ },
+ {
+  "n": 237,
+  "question": "What is the judicial power in Australia?",
+  "options": {
+   "A": "The power to enforce laws.",
+   "B": "The power to make new laws.",
+   "C": "The power to interpret and apply the law.",
+   "D": "The power to create government policies."
+  },
+  "correct": "C",
+  "answer": "The power to interpret and apply the law.",
+  "explanation": "The judicial power in Australia is the authority to interpret and apply the law. This power is vested in the courts which ensure that laws are consistently and fairly enforced.",
+  "t": 10635
+ },
+ {
+  "n": 238,
+  "question": "On what basis do courts in Australia decide if someone is guilty or innocent?",
+  "options": {
+   "A": "Public opinions.",
+   "B": "Evidences present before them.",
+   "C": "Cultural traditions.",
+   "D": "Political views."
+  },
+  "correct": "B",
+  "answer": "Evidences present before them.",
+  "explanation": "Courts in Australia decide if someone is guilty or innocent based on the evidence presented before them. This includes witness testimonies, physical evidence, expert opinions, and any other relevant information.",
+  "t": 10682
+ },
+ {
+  "n": 239,
+  "question": "Who appoints judges and magistrates in Australia?",
+  "options": {
+   "A": "The parliament.",
+   "B": "The Governor-General.",
+   "C": "The prime minister.",
+   "D": "None of the above."
+  },
+  "correct": "B",
+  "answer": "The Governor-General.",
+  "explanation": "The Governor-General appoints judges and magistrates.",
+  "t": 10745
+ },
+ {
+  "n": 240,
+  "question": "Who is the highest authority in the court?",
+  "options": {
+   "A": "The lawyer.",
+   "B": "The judge or magistrate?",
+   "C": "The prime minister.",
+   "D": "The Governor-General."
+  },
+  "correct": "B",
+  "answer": "The judge or magistrate.",
+  "explanation": "The judge or magistrate is the highest authority in a court.",
+  "t": 10777
+ },
+ {
+  "n": 241,
+  "question": "Does every person in Australia have the right to a lawyer in court?",
+  "options": {
+   "A": "Yes, everyone has the right to a lawyer.",
+   "B": "No, only those who can afford one have the right.",
+   "C": "Only in serious criminal cases.",
+   "D": "Only in civil cases."
+  },
+  "correct": "A",
+  "answer": "Yes. Everyone has the right to a lawyer.",
+  "explanation": "In Australia, every person has the right to a lawyer in court, especially in criminal cases. If an individual cannot afford legal representation, they may be provided with a lawyer at the state's expense, particularly if the case is serious and the interests of justice require it.",
+  "t": 10813
+ },
+ {
+  "n": 242,
+  "question": "In Australia's court system, people are considered:",
+  "options": {
+   "A": "Guilty until proven innocent.",
+   "B": "Innocent until proven guilty.",
+   "C": "Guilty if there is evidence.",
+   "D": "Innocent only in criminal cases."
+  },
+  "correct": "B",
+  "answer": "Innocent until proven guilty.",
+  "explanation": "In Australia's court system, people are considered innocent until they are found guilty in a court.",
+  "t": 10868
+ },
+ {
+  "n": 243,
+  "question": "Is bribing the police a crime in Australia?",
+  "options": {
+   "A": "No. Only accepting a bribe is a crime?",
+   "B": "Yes. Both offering and accepting a bribe are crimes.",
+   "C": "No, it is allowed in some cases.",
+   "D": "Yes, but only for serious crimes."
+  },
+  "correct": "B",
+  "answer": "Yes, both offering and accepting a bribe are crimes.",
+  "explanation": "Yes, bribing the police is a crime in Australia. Both offering a bribe to a police officer and accepting a bribe as a police officer are serious offenses.",
+  "t": 10910
+ },
+ {
+  "n": 244,
+  "question": "What is the National Police Force of Australia called?",
+  "options": {
+   "A": "State Police SP.",
+   "B": "Australian Federal Police AFP.",
+   "C": "Australian National Police.",
+   "D": "Federal Security Police FSP."
+  },
+  "correct": "B",
+  "answer": "Australian Federal Police, AFP.",
+  "explanation": "Australia's National Police Force is called the Australian Federal Police, AFP.",
+  "t": 10962
+ },
+ {
+  "n": 245,
+  "question": "What role do the police have in court?",
+  "options": {
+   "A": "They give evidence to the court but only the court decides guilt or innocence.",
+   "B": "They decide if a person is guilty.",
+   "C": "They decide the penalty.",
+   "D": "They create laws."
+  },
+  "correct": "A",
+  "answer": "They give evidence to the court but only the court decides guilt or innocence.",
+  "explanation": "In court, the police play the role of providing evidence and testimony related to the case. They present facts, findings from investigations and other relevant information. However, it is the court's responsibility to decide guilt or innocence based on the evidence presented by both the police and other parties involved.",
+  "t": 11006
+ },
+ {
+  "n": 246,
+  "question": "What is the role of the police in Australia?",
+  "options": {
+   "A": "To create laws.",
+   "B": "To protect life and property and maintain peace and order.",
+   "C": "To decide if a person is guilty.",
+   "D": "To represent the government."
+  },
+  "correct": "B",
+  "answer": "To protect life and property and maintain peace and order.",
+  "explanation": "In Australia, the police play a crucial role in protecting life and property, maintaining peace and order, and enforcing laws.",
+  "t": 11067
+ },
+ {
+  "n": 247,
+  "question": "Is violence against people or property legal in Australia?",
+  "options": {
+   "A": "Yes, it is legal.",
+   "B": "No, it is illegal and a serious crime.",
+   "C": "Only some types of violence are illegal.",
+   "D": "It isn't that big of a crime."
+  },
+  "correct": "B",
+  "answer": "No, it is illegal and a serious crime.",
+  "explanation": "Violence against people or property is illegal in Australia. The legal system in Australia has strict laws and penalties in place to address and prevent such acts. This includes various forms of violence such as physical assault, domestic violence, and property damage?",
+  "t": 11112
+ },
+ {
+  "n": 248,
+  "question": "Which of the following are considered some of the most serious crimes in Australia?",
+  "options": {
+   "A": "Murder, assault, and armed robbery.",
+   "B": "Sexual assault, dangerous driving, and fraud.",
+   "C": "Possession of illegal drugs, theft, and violence against people or property.",
+   "D": "All of the above."
+  },
+  "correct": "D",
+  "answer": "All of the above.",
+  "explanation": "Some of the most serious crimes in Australia include murder, assault, armed robbery, sexual assault, dangerous driving, fraud, possession of illegal drugs, theft, and violence against people or property.",
+  "t": 11169
+ },
+ {
+  "n": 249,
+  "question": "What happens if you break a law in Australia that you didn't know about?",
+  "options": {
+   "A": "You cannot be charged.",
+   "B": "You can be charged as not knowing the law is no excuse.",
+   "C": "You will be let off with a warning.",
+   "D": "You will not be fined."
+  },
+  "correct": "B",
+  "answer": "You can be charged as not knowing the law is no excuse.",
+  "explanation": "In Australia, ignorance of the law is generally not considered a valid defence. If you break a law, even unknowingly, you can still face legal consequences.",
+  "t": 11222
+ },
+ {
+  "n": 250,
+  "question": "Is it against the law to use a handheld mobile device while driving in Australia?",
+  "options": {
+   "A": "Yes, it is against the law.",
+   "B": "No, it is allowed.",
+   "C": "Only if driving at night.",
+   "D": "Only if driving in a city."
+  },
+  "correct": "A",
+  "answer": "Yes, it is against the law.",
+  "explanation": "It is against the law to use a handheld mobile device while driving in Australia. This includes talking, texting, or using any functions of the phone while the vehicle is in motion or even stationary but not parked. Example, at traffic lights.",
+  "t": 11268
+ },
+ {
+  "n": 251,
+  "question": "Who represents the king in each state of Australia?",
+  "options": {
+   "A": "Governor.",
+   "B": "A premier.",
+   "C": "A deputy Governor-General.",
+   "D": "A local representative."
+  },
+  "correct": "A",
+  "answer": "A governor.",
+  "explanation": "In each state of Australia, the king is represented by a governor.",
+  "t": 11320
+ },
+ {
+  "n": 252,
+  "question": "What is the role of the governor in each state of Australia?",
+  "options": {
+   "A": "To make laws in the state.",
+   "B": "To represent the king in a role similar to the Governor-General.",
+   "C": "To oversee the daily activities of the state government.",
+   "D": "To act as the head of the state government."
+  },
+  "correct": "B",
+  "answer": "To represent the king in a role similar to the Governor-General.",
+  "explanation": "In each state of Australia, the governor represents the king in a role similar to the Governor-General at the national level.",
+  "t": 11354
+ },
+ {
+  "n": 253,
+  "question": "What is the king's role in the day-to-day government of Australia?",
+  "options": {
+   "A": "The king advises the prime minister.",
+   "B": "The king runs the day-to-day government.",
+   "C": "The king makes daily government decisions.",
+   "D": "The king does not have a day-to-day role."
+  },
+  "correct": "D",
+  "answer": "The king does not have a day-to-day role.",
+  "explanation": "The king has a ceremonial role in Australia and does not participate in the daily operations or decisions of the government.",
+  "t": 11401
+ },
+ {
+  "n": 254,
+  "question": "In Australia, does the Governor-General act independently of political parties?",
+  "options": {
+   "A": "Yes, but only during elections.",
+   "B": "No. The Governor-General follows political party lines.",
+   "C": "Yes, the Governor-General acts independently.",
+   "D": "No, they represent political parties."
+  },
+  "correct": "C",
+  "answer": "Yes, the Governor-General acts independently.",
+  "explanation": "In Australia, the Governor-General acts independently of all political parties.",
+  "t": 11446
+ },
+ {
+  "n": 255,
+  "question": "Who advises the king in the appointment of his representative in Australia?",
+  "options": {
+   "A": "The prime minister?",
+   "B": "The judge.",
+   "C": "The Governor-General.",
+   "D": "The king does not take advice from anyone."
+  },
+  "correct": "A",
+  "answer": "The Prime Minister.",
+  "explanation": "The King of Australia appoints the Governor-General as his representative in Australia on advice from the Australian Prime Minister.",
+  "t": 11491
+ },
+ {
+  "n": 256,
+  "question": "Who appoints the Governor-General in Australia?",
+  "options": {
+   "A": "The king of Australia on advice from the prime minister.",
+   "B": "The Australian Prime Minister on advice from the King.",
+   "C": "The Australian Parliament on advice from the King.",
+   "D": "The Cabinet Ministers on advice from the Prime Minister."
+  },
+  "correct": "A",
+  "answer": "The King of Australia on advice from the Prime Minister.",
+  "explanation": "The King of Australia appoints the Governor-General as his representative in Australia on advice from the Australian Prime Minister.",
+  "t": 11555
+ },
+ {
+  "n": 257,
+  "question": "Who is Australia's current head of state?",
+  "options": {
+   "A": "Her Majesty Queen Elizabeth I.",
+   "B": "His Majesty King Charles III.",
+   "C": "Her Majesty Queen Elizabeth III.",
+   "D": "Her Majesty Queen Victoria III."
+  },
+  "correct": "B",
+  "answer": "His Majesty King Charles III.",
+  "explanation": "Australia's current head of state is His Majesty King Charles III.",
+  "t": 11603
+ },
+ {
+  "n": 258,
+  "question": "Who is Australia's head of state?",
+  "options": {
+   "A": "The king.",
+   "B": "The prime minister.",
+   "C": "The Governor-General.",
+   "D": "The president."
+  },
+  "correct": "A",
+  "answer": "The king.",
+  "explanation": "The king is Australia's head of state.",
+  "t": 11645
+ },
+ {
+  "n": 259,
+  "question": "Who is the leader of the Australian government?",
+  "options": {
+   "A": "The Speaker of the House.",
+   "B": "The Governor-General.",
+   "C": "The King of Australia.",
+   "D": "The Prime Minister."
+  },
+  "correct": "D",
+  "answer": "The Prime Minister.",
+  "explanation": "In the Australian system, the prime minister is the the leader of the government.",
+  "t": 11675
+ },
+ {
+  "n": 260,
+  "question": "Which two traditions influence the Australian system of parliamentary democracy?",
+  "options": {
+   "A": "British and North American traditions?",
+   "B": "British and European traditions.",
+   "C": "North American and Australian traditions.",
+   "D": "European and Australian traditions."
+  },
+  "correct": "A",
+  "answer": "British and North American traditions.",
+  "explanation": "The Australian system of parliamentary democracy is primarily influenced by British and North American traditions.",
+  "t": 11711
+ },
+ {
+  "n": 261,
+  "question": "Since the king does not live in Australia, then who holds his powers in Australia?",
+  "options": {
+   "A": "The prime minister.",
+   "B": "The Governor-General.",
+   "C": "The Australian Parliament.",
+   "D": "The king's representative in each state."
+  },
+  "correct": "B",
+  "answer": "The Governor-General.",
+  "explanation": "Since the king does not live in Australia, the Governor-General holds his powers in Australia.",
+  "t": 11757
+ },
+ {
+  "n": 262,
+  "question": "What does it mean for Australia to be a constitutional monarchy?",
+  "options": {
+   "A": "The prime minister is the head of state.",
+   "B": "The king makes all government decisions without limitations.",
+   "C": "The king is Australia's head of state but must act according to the constitution.",
+   "D": "The king has absolute power over the government."
+  },
+  "correct": "C",
+  "answer": "The king is Australia's head of state but must act according to the constitution.",
+  "explanation": "Australia is a constitutional monarchy which means that the king is Australia's head of state but has to act in accordance with the constitution.",
+  "t": 11797
+ },
+ {
+  "n": 263,
+  "question": "What special powers does the Governor-General have in Australia?",
+  "options": {
+   "A": "Reserve powers to be used in specific circumstances.",
+   "B": "Powers to appoint the prime minister.",
+   "C": "Powers to make laws without parliament.",
+   "D": "Powers to dissolve parliament at will."
+  },
+  "correct": "A",
+  "answer": "Reserve powers to be used in specific circumstances.",
+  "explanation": "In Australia, the Governor-General has special powers known as reserve powers that can only be used in specific circumstances.",
+  "t": 11851
+ },
+ {
+  "n": 264,
+  "question": "Who acts as the Commander-in-Chief of the Australian Defence Force?",
+  "options": {
+   "A": "The Prime Minister.",
+   "B": "The Governor-General.",
+   "C": "The Defence Minister.",
+   "D": "The Chief of the Defence Force."
+  },
+  "correct": "B",
+  "answer": "The Governor-General.",
+  "explanation": "The Governor-General acts as the Commander-in-Chief of the Australian Defence Force.",
+  "t": 11897
+ },
+ {
+  "n": 265,
+  "question": "Who starts the process for a federal election in Australia?",
+  "options": {
+   "A": "The Chief Justice.",
+   "B": "The Prime Minister.",
+   "C": "The Governor-General.",
+   "D": "The speaker of parliament."
+  },
+  "correct": "C",
+  "answer": "The Governor-General.",
+  "explanation": "The Governor-General starts the process for a federal election in Australia.",
+  "t": 11934
+ },
+ {
+  "n": 266,
+  "question": "Who is responsible for signing bills passed by the Australian Parliament to make them law?",
+  "options": {
+   "A": "The Chief Justice.",
+   "B": "The Prime Minister.",
+   "C": "The Governor-General.",
+   "D": "The Speaker of Parliament."
+  },
+  "correct": "C",
+  "answer": "The Governor-General.",
+  "explanation": "The Governor-General is responsible for signing bills passed by the Australian Parliament to give them royal ascent, making them law.",
+  "t": 11973
+ },
+ {
+  "n": 267,
+  "question": "What is the royal ascent?",
+  "options": {
+   "A": "When the king signs all the bills passed by the Australian Parliament into law.",
+   "B": "When the prime minister signs all the bills passed by the Australian Parliament into law.",
+   "C": "When the president signs all the bills passed by the Australian Parliament into law.",
+   "D": "When the Governor-General signs all the bills passed by the Australian Parliament into law."
+  },
+  "correct": "D",
+  "answer": "When the Governor-General signs all the bills passed by the Australian Parliament into law.",
+  "explanation": "The royal ascent is the formal process where the Governor-General, as the king's representative, signs bills passed by the Australian Parliament into law.",
+  "t": 12013
+ },
+ {
+  "n": 268,
+  "question": "Who is the Governor-General?",
+  "options": {
+   "A": "The representative of the head of state in Australia.",
+   "B": "The leader of the Australian government.",
+   "C": "The representative of the head of state in each Australian state.",
+   "D": "The leader of a territory government."
+  },
+  "correct": "A",
+  "answer": "The representative of the head of state in Australia.",
+  "explanation": "The Governor-General is the representative of the head of state in Australia. They perform a range of constitutional and ceremonial duties acting on the advice of the prime minister and the federal executive council.",
+  "t": 12069
+ },
+ {
+  "n": 269,
+  "question": "Who is the governor?",
+  "options": {
+   "A": "The representative of the head of state in Australia.",
+   "B": "The representative of the head of state in each Australian state.",
+   "C": "The leader of the Australian government.",
+   "D": "The leader of a state government."
+  },
+  "correct": "B",
+  "answer": "The representative of the head of state in each Australian state.",
+  "explanation": "The governor is the representative of the head of state in each Australian state. They perform various constitutional and ceremonial duties, ensuring the state's government operates within the law and representing the king at official events.",
+  "t": 12121
+ },
+ {
+  "n": 270,
+  "question": "Who is the prime minister?",
+  "options": {
+   "A": "The leader of a state government.",
+   "B": "The representative of the head of state in Australia.",
+   "C": "The leader of the Australian government.",
+   "D": "The representative of the head of state in each Australian state."
+  },
+  "correct": "C",
+  "answer": "The leader of the Australian government.",
+  "explanation": "In the Australian system, the prime minister is the leader of the Australian government.",
+  "t": 12173
+ },
+ {
+  "n": 271,
+  "question": "Who is the premier?",
+  "options": {
+   "A": "The leader of a state government.",
+   "B": "The leader of the Australian government.",
+   "C": "The representative of the head of state in each Australian state.",
+   "D": "The representative of the head of state in Australia."
+  },
+  "correct": "A",
+  "answer": "The leader of a state government.",
+  "explanation": "In Australia, the premier is the head of government in each state. They are responsible for leading the executive branch of the state government, implementing policies, and representing the state in various capacities.",
+  "t": 12214
+ },
+ {
+  "n": 272,
+  "question": "Who is the chief minister?",
+  "options": {
+   "A": "The representative of the head of state in each Australian state.",
+   "B": "The leader of the Australian government.",
+   "C": "The leader of a territory government.",
+   "D": "The representative of the head of state in Australia."
+  },
+  "correct": "C",
+  "answer": "The leader of a territory government.",
+  "explanation": "In the Australian system, the chief minister is the leader of a territory government.",
+  "t": 12264
+ },
+ {
+  "n": 273,
+  "question": "Who is a government minister?",
+  "options": {
+   "A": "A leader of a local government.",
+   "B": "An elected member of a local council.",
+   "C": "A member of parliament chosen by a government leader to oversee a specific area of government responsibility.",
+   "D": "An elected representative of a state or territory in the Australian Parliament."
+  },
+  "correct": "C",
+  "answer": "A member of parliament chosen by a government leader to oversee a specific area of government responsibility.",
+  "explanation": "A government minister is a member of parliament appointed by the government leader to oversee a specific area of government responsibility.",
+  "t": 12305
+ },
+ {
+  "n": 274,
+  "question": "What does MP stand for?",
+  "options": {
+   "A": "Member of parliament.",
+   "B": "Member of policy.",
+   "C": "Manager of programs.",
+   "D": "Minister of public."
+  },
+  "correct": "A",
+  "answer": "Member of parliament.",
+  "explanation": "MP stands for member of parliament. It refers to an elected representative who serves in the Parliament of Australia representing the people in their respective electoral areas.",
+  "t": 12359
+ },
+ {
+  "n": 275,
+  "question": "Who is a member of parliament (MP)?",
+  "options": {
+   "A": "An elected representative of the people in the Australian or a state parliament.",
+   "B": "A member of parliament chosen by a government leader to oversee an area of government.",
+   "C": "The leader of a local government.",
+   "D": "An elected member of a local council."
+  },
+  "correct": "A",
+  "answer": "An elected representative of the people in the Australian or a state parliament.",
+  "explanation": "The member of parliament MP is an elected representative of the people in the Australian Parliament or a state parliament.",
+  "t": 12401
+ },
+ {
+  "n": 276,
+  "question": "How are members of parliament chosen?",
+  "options": {
+   "A": "They are appointed by the Governor-General on the advice of the prime minister.",
+   "B": "They are elected by the Australian people.",
+   "C": "They are appointed by the prime minister on the advice of the Governor-General.",
+   "D": "They are nominated by political parties and then approved by the Senate."
+  },
+  "correct": "B",
+  "answer": "They are elected by the Australian people.",
+  "explanation": "",
+  "t": 12453
+ },
+ {
+  "n": 277,
+  "question": "Who is a senator?",
+  "options": {
+   "A": "An elected member of a local council.",
+   "B": "The leader of a local government.",
+   "C": "An elected representative of a state or territory in the Australian Parliament.",
+   "D": "A member of parliament chosen by a government leader to oversee a specific area of government responsibility."
+  },
+  "correct": "C",
+  "answer": "An elected representative of a state or territory in the Australian Parliament.",
+  "explanation": "A senator is an elected representative of a state or territory in the Australian Parliament.",
+  "t": 12502
+ },
+ {
+  "n": 278,
+  "question": "Who is a mayor or Shia president?",
+  "options": {
+   "A": "The leader of a local government.",
+   "B": "An elected representative of the people in the Australian Parliament.",
+   "C": "An elected representative of a state or territory in the Australian Parliament.",
+   "D": "An elected member of a local council."
+  },
+  "correct": "A",
+  "answer": "The leader of a local government.",
+  "explanation": "In the Australian system, a mayor or shia president is the leader of a local government.",
+  "t": 12550
+ },
+ {
+  "n": 279,
+  "question": "Who is a counselor?",
+  "options": {
+   "A": "An elected representative of a state or territory in the Australian Parliament.",
+   "B": "A member of parliament chosen by a government leader to oversee an area of government.",
+   "C": "An elected member of a local council.",
+   "D": "The leader of a local government."
+  },
+  "correct": "C",
+  "answer": "An elected member of a local council.",
+  "explanation": "In the Australian system, a counselor is an elected member of a local council.",
+  "t": 12597
+ },
+ {
+  "n": 280,
+  "question": "In a federal election, what do Australian citizens vote for?",
+  "options": {
+   "A": "To elect representatives to each house of parliament.",
+   "B": "To approve new laws and policies.",
+   "C": "To select members of the cabinet.",
+   "D": "To choose the prime minister directly."
+  },
+  "correct": "A",
+  "answer": "To elect representatives to each House of Parliament.",
+  "explanation": "In a federal election, Australian citizens vote to elect representatives to each House of Parliament.",
+  "t": 12641
+ },
+ {
+  "n": 281,
+  "question": "What are the two houses of the Australian Parliament?",
+  "options": {
+   "A": "The Executive House and the Judicial House.",
+   "B": "The House of Commons and the House of Lords.",
+   "C": "The Legislative Assembly and the Legislative Council.",
+   "D": "The House of Representatives and the Senate."
+  },
+  "correct": "D",
+  "answer": "The House of Representatives and the Senate.",
+  "explanation": "The Australian Parliament is divided into two houses. The House of Representatives and the Senate.",
+  "t": 12686
+ },
+ {
+  "n": 282,
+  "question": "The Australian Government is also called:",
+  "options": {
+   "A": "The Federal Government.",
+   "B": "The Commonwealth Government.",
+   "C": "The state government.",
+   "D": "Both A and B."
+  },
+  "correct": "D",
+  "answer": "Both A and B.",
+  "explanation": "The Australian government is also called the federal or commonwealth government.",
+  "t": 12730
+ },
+ {
+  "n": 283,
+  "question": "What is the role of the House of Representatives in the Parliament?",
+  "options": {
+   "A": "To create the government's policies.",
+   "B": "To consider, debate and vote on new laws.",
+   "C": "To enforce laws.",
+   "D": "To manage local government matters."
+  },
+  "correct": "B",
+  "answer": "To consider, debate and vote on new laws.",
+  "explanation": "The role of the House of Representatives is to consider, debate, and vote on proposals for new laws or changes to the laws and discuss matters of national importance.",
+  "t": 12767
+ },
+ {
+  "n": 284,
+  "question": "What do members of parliament and senators do in the Australian Parliament?",
+  "options": {
+   "A": "Elect the Prime Minister.",
+   "B": "Solve local community disputes.",
+   "C": "Debate proposals for new laws.",
+   "D": "Appoint judges."
+  },
+  "correct": "C",
+  "answer": "Debate proposals for new laws.",
+  "explanation": "Members of parliament and senators debate proposals for new laws in the Australian Parliament.",
+  "t": 12814
+ },
+ {
+  "n": 285,
+  "question": "How many members are in the House of Representatives?",
+  "options": {
+   "A": "Over 50.",
+   "B": "Over 100.",
+   "C": "Over 150.",
+   "D": "Over 200."
+  },
+  "correct": "C",
+  "answer": "Over 150.",
+  "explanation": "In Australia, there are over 150 members elected to the House of Representatives.",
+  "t": 12855
+ },
+ {
+  "n": 286,
+  "question": "What is the Senate sometimes called?",
+  "options": {
+   "A": "The lower house or state's House?",
+   "B": "The upper house, the House of Review, or the State's House.",
+   "C": "The People's House or the House of Review.",
+   "D": "The people's house or the state's house."
+  },
+  "correct": "B",
+  "answer": "The Upper House, the House of Review, or the States House.",
+  "explanation": "The Australian Senate is sometimes called the Upper House, the House of Review, or the States House.",
+  "t": 12895
+ },
+ {
+  "n": 287,
+  "question": "In the Northern Territory, who represents the king of Australia?",
+  "options": {
+   "A": "The governor.",
+   "B": "The premier.",
+   "C": "The chief minister.",
+   "D": "The administrator."
+  },
+  "correct": "D",
+  "answer": "The administrator.",
+  "explanation": "In the Northern Territory, the administrator represents the king.",
+  "t": 12939
+ },
+ {
+  "n": 288,
+  "question": "Who is the leader of a state government?",
+  "options": {
+   "A": "The premier.",
+   "B": "The chief minister.",
+   "C": "The Governor-General.",
+   "D": "The prime minister."
+  },
+  "correct": "A",
+  "answer": "The premier.",
+  "explanation": "The premier is the leader of a state government in Australia.",
+  "t": 12977
+ },
+ {
+  "n": 289,
+  "question": "How many levels of government are there in Australia?",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "correct": "C",
+  "answer": "3.",
+  "explanation": "Australia has three levels of government. The Australian government, federal, state, and territory governments, and local governments.",
+  "t": 13009
+ },
+ {
+  "n": 290,
+  "question": "Who is responsible for street signs and traffic controls in Australia?",
+  "options": {
+   "A": "State and territory governments.",
+   "B": "Local governments.",
+   "C": "Australian government.",
+   "D": "International agencies."
+  },
+  "correct": "B",
+  "answer": "Local governments.",
+  "explanation": "Local governments, including the Australian Capital Territory Government, are responsible for infrastructure and transportation within their communities, which includes tasks like maintaining street signs, traffic controls, local roads, footpaths, bridges, and drains.",
+  "t": 13048
+ },
+ {
+  "n": 291,
+  "question": "Who manages parks, playgrounds, and sports grounds in Australia?",
+  "options": {
+   "A": "Australian government.",
+   "B": "State and territory governments.",
+   "C": "Local governments.",
+   "D": "Private companies."
+  },
+  "correct": "C",
+  "answer": "Local governments.",
+  "explanation": "Local governments are responsible for managing community recreational spaces like parks, playgrounds, and sports grounds.",
+  "t": 13098
+ },
+ {
+  "n": 292,
+  "question": "Who is responsible for building permits in Australia?",
+  "options": {
+   "A": "Australian government.",
+   "B": "State and territory governments.",
+   "C": "Local governments.",
+   "D": "Private organisations."
+  },
+  "correct": "C",
+  "answer": "Local governments.",
+  "explanation": "In Australia, local governments handle building permits, ensuring that construction projects comply with local regulations and safety standards.",
+  "t": 13142
+ },
+ {
+  "n": 293,
+  "question": "What is a responsibility of local governments in Australia?",
+  "options": {
+   "A": "Food and meat inspection.",
+   "B": "Defence policies.",
+   "C": "National security.",
+   "D": "Postal services."
+  },
+  "correct": "A",
+  "answer": "Food and meat inspection.",
+  "explanation": "Local governments are responsible for overseeing food and meat inspections to maintain public health and safety in their communities.",
+  "t": 13184
+ },
+ {
+  "n": 294,
+  "question": "Which of the following are main political parties in Australia?",
+  "options": {
+   "A": "The Liberal Party of Australia, the Australian Labor Party and the Nationals.",
+   "B": "The Australian Labor Party, the Nationals and the Australian Greens.",
+   "C": "The Liberal Party of Australia, the Australian Greens, and the Nationals.",
+   "D": "The Liberal Party of Australia, the Australian Labor Party, the Nationals, and the Australian Greens."
+  },
+  "correct": "D",
+  "answer": "The Liberal Party of Australia, the Australian Labor Party, the Nationals, and the Australian Greens.",
+  "explanation": "The main political parties in Australia are the Liberal Party of Australia, the Australian Labor Party, the Nationals, and the Australian Greens.",
+  "t": 13226
+ },
+ {
+  "n": 295,
+  "question": "After a federal election, the party or coalition of parties with the second largest number of members in the House of Representatives forms the:",
+  "options": {
+   "A": "Government.",
+   "B": "Opposition.",
+   "C": "Coalition.",
+   "D": "Cabinet."
+  },
+  "correct": "B",
+  "answer": "Opposition.",
+  "explanation": "After a federal election, the party or coalition of parties with the second largest number of members in the House of Representatives forms the opposition.",
+  "t": 13289
+ },
+ {
+  "n": 296,
+  "question": "What is a proposal to introduce a new law or change an existing one in the Australian Parliament called?",
+  "options": {
+   "A": "A resolution.",
+   "B": "A motion.",
+   "C": "A bill.",
+   "D": "A law."
+  },
+  "correct": "C",
+  "answer": "A bill.",
+  "explanation": "A proposal to introduce a new law or change an existing one in the Australian Parliament is called a bill.",
+  "t": 13335
+ },
+ {
+  "n": 297,
+  "question": "What defines and shapes Australia, making it attractive to many people around the world?",
+  "options": {
+   "A": "Its economic policies.",
+   "B": "Its strict immigration system.",
+   "C": "Its values of freedom, respect, fairness, and equality of opportunity.",
+   "D": "Its climate and natural resources."
+  },
+  "correct": "C",
+  "answer": "Its values of freedom, respect, fairness, and equality of opportunity.",
+  "explanation": "Australia's values of freedom, respect, fairness, and equality of opportunity define and shape the country, making it attractive to people around the world.",
+  "t": 13377
+ },
+ {
+  "n": 298,
+  "question": "What are Australian values based on?",
+  "options": {
+   "A": "Wealth and social status.",
+   "B": "Freedom, respect, fairness, and equality of opportunity.",
+   "C": "Political power and influence.",
+   "D": "Economic growth and trade."
+  },
+  "correct": "B",
+  "answer": "Freedom, respect, fairness, and equality of opportunity.",
+  "explanation": "Australian values emphasize freedom, fairness, and equal opportunities for all individuals.",
+  "t": 13431
+ },
+ {
+  "n": 299,
+  "question": "In Australia, can you break the law if no one is watching you?",
+  "options": {
+   "A": "Yes, if no one notices.",
+   "B": "Yes, if it's not reported.",
+   "C": "No, you must always follow the law.",
+   "D": "None of the above."
+  },
+  "correct": "C",
+  "answer": "No, you must always follow the law.",
+  "explanation": "In Australia, breaking the law is still considered a crime regardless of whether someone is watching or if it's reported.",
+  "t": 13479
+ },
+ {
+  "n": 300,
+  "question": "What does the rule of law mean in Australia?",
+  "options": {
+   "A": "Only leaders must follow laws.",
+   "B": "All Australians are equal under the law regardless of their background.",
+   "C": "Laws apply only to indigenous groups.",
+   "D": "Defence ministers are above the law."
+  },
+  "correct": "B",
+  "answer": "All Australians are equal under the law regardless of their background.",
+  "explanation": "In Australia, the rule of law means that everyone, including the government, is subject to the law. It ensures that laws are applied equally and fairly, protecting individuals from arbitrary power.",
+  "t": 13523
+ },
+ {
+  "n": 301,
+  "question": "Who must follow Australian laws?",
+  "options": {
+   "A": "Only citizens of Australia.",
+   "B": "Only people born in Australia.",
+   "C": "All people in Australia, regardless of their background or culture.",
+   "D": "Only people who hold political office."
+  },
+  "correct": "C",
+  "answer": "All people in Australia, regardless of their background or culture.",
+  "explanation": "Everyone in Australia, whether a citizen, resident, visitor, or worker, is required to follow the laws. It applies to all people, regardless of their background or culture.",
+  "t": 13572
+ },
+ {
+  "n": 302,
+  "question": "In Australia, who should obey the law?",
+  "options": {
+   "A": "Only Australian citizens.",
+   "B": "Everyone in Australia.",
+   "C": "Only government officials.",
+   "D": "Only those over the age of 18."
+  },
+  "correct": "B",
+  "answer": "Everyone in Australia.",
+  "explanation": "Everyone in Australia, regardless of citizenship, must obey the law. This includes citizens, residents, visitors, and workers.",
+  "t": 13621
+ },
+ {
+  "n": 303,
+  "question": "What happens if someone breaks the law in Australia?",
+  "options": {
+   "A": "They will receive a warning.",
+   "B": "They will face penalties.",
+   "C": "They will be exempted based on their background.",
+   "D": "They can avoid consequences by apologizing."
+  },
+  "correct": "B",
+  "answer": "They will face penalties.",
+  "explanation": "If someone breaks the law in Australia, they will face legal penalties, which can include fines, community service, or imprisonment depending on the severity of the offense.",
+  "t": 13664
+ },
+ {
+  "n": 304,
+  "question": "Who's protected by Australian laws and legal systems?",
+  "options": {
+   "A": "Only citizens.",
+   "B": "Only residents.",
+   "C": "All Australians.",
+   "D": "Government officials."
+  },
+  "correct": "C",
+  "answer": "All Australians.",
+  "explanation": "All Australians are protected by Australian laws and legal systems.",
+  "t": 13711
+ },
+ {
+  "n": 305,
+  "question": "The Australian system of government is:",
+  "options": {
+   "A": "A federal monarchy.",
+   "B": "A parliamentary democracy.",
+   "C": "A presidential republic.",
+   "D": "A constitutional autocracy."
+  },
+  "correct": "B",
+  "answer": "A parliamentary democracy.",
+  "explanation": "Australia has a parliamentary democracy where citizens vote for representatives in parliament and the government is headed by a prime minister.",
+  "t": 13748
+ },
+ {
+  "n": 306,
+  "question": "How are laws determined in Australia?",
+  "options": {
+   "A": "By parliaments elected by the people.",
+   "B": "By a single leader.",
+   "C": "By courts and judges.",
+   "D": "By international bodies."
+  },
+  "correct": "A",
+  "answer": "By parliaments elected by the people.",
+  "explanation": "Australian laws are determined by parliaments elected by the people.",
+  "t": 13812
+ },
+ {
+  "n": 307,
+  "question": "In Australia, people can express their ideas if:",
+  "options": {
+   "A": "They follow the law.",
+   "B": "The government agrees.",
+   "C": "It is in private.",
+   "D": "They do not offend others."
+  },
+  "correct": "A",
+  "answer": "They follow the law.",
+  "explanation": "In Australia, people are free to express their thoughts as long as they follow the law.",
+  "t": 13850
+ },
+ {
+  "n": 308,
+  "question": "In Australia, where are people free to meet for social or political discussions?",
+  "options": {
+   "A": "Only in public places.",
+   "B": "Only in private places.",
+   "C": "In both public and private places.",
+   "D": "Only in government approved areas."
+  },
+  "correct": "C",
+  "answer": "In both public and private places.",
+  "explanation": "Australians are free to meet for social or political discussions in both public and private places.",
+  "t": 13886
+ },
+ {
+  "n": 309,
+  "question": "What freedom do Australians have regarding expressing their thoughts?",
+  "options": {
+   "A": "They can only write their ideas in private.",
+   "B": "They can freely say and write what they think about any topic.",
+   "C": "They need permission to discuss their ideas.",
+   "D": "They can only discuss approved topics."
+  },
+  "correct": "B",
+  "answer": "They can freely say and write what they think about any topic.",
+  "explanation": "Australians have the freedom to express their thoughts and opinions openly. This means they can freely say and write about any topic as long as they do not break laws.",
+  "t": 13929
+ },
+ {
+  "n": 310,
+  "question": "Why are Australians allowed to peacefully protest against the government?",
+  "options": {
+   "A": "Because it disrupts the government.",
+   "B": "Because it is an essential part of democracy.",
+   "C": "Because protests always change laws.",
+   "D": "Because it is required by law."
+  },
+  "correct": "B",
+  "answer": "Because it is an essential part of democracy.",
+  "explanation": "Australians are allowed to peacefully protest because it is an essential part of democracy.",
+  "t": 13980
+ },
+ {
+  "n": 311,
+  "question": "Should you respect other Australians freedom of speech and expression?",
+  "options": {
+   "A": "Yes, as long as it is lawful.",
+   "B": "No, only if you agree with them.",
+   "C": "Yes, regardless of the law.",
+   "D": "No, freedom of speech is not important."
+  },
+  "correct": "A",
+  "answer": "Yes, as long as it is lawful.",
+  "explanation": "You should respect other Australians freedom of speech and expression. As long as it is lawful.",
+  "t": 14022
+ },
+ {
+  "n": 312,
+  "question": "What is true about joining or leaving groups in Australia?",
+  "options": {
+   "A": "People can join any group even if it is unlawful.",
+   "B": "People must stay in a group once they join.",
+   "C": "People are free to join or leave any group voluntarily as long as it is within the law.",
+   "D": "People can only join groups approved by the government."
+  },
+  "correct": "C",
+  "answer": "People are free to join or leave any group voluntarily as long as it is within the law.",
+  "explanation": "In Australia, people are free to join or leave any group voluntarily as long as the group operates within the law.",
+  "t": 14068
+ },
+ {
+  "n": 313,
+  "question": "Which of the following statements is true?",
+  "options": {
+   "A": "The Australian government treats citizens differently based on their religion?",
+   "B": "The Australian government treats all citizens equally regardless of religion or beliefs.",
+   "C": "Only citizens with a specific religion are treated equally.",
+   "D": "The Australian government enforces a national religion."
+  },
+  "correct": "B",
+  "answer": "The Australian government treats all citizens equally regardless of religion or beliefs.",
+  "explanation": "The Australian government treats all citizens equally regardless of their religion or beliefs.",
+  "t": 14122
+ },
+ {
+  "n": 314,
+  "question": "In Australia, people are free to follow:",
+  "options": {
+   "A": "Only Christianity.",
+   "B": "Any religion they choose.",
+   "C": "Only the religion of their family.",
+   "D": "Only a government approved religion."
+  },
+  "correct": "B",
+  "answer": "Any religion they choose.",
+  "explanation": "People in Australia are free to follow any religion they choose. This freedom is protected by law and individuals can practice their beliefs without interference from the government.",
+  "t": 14187
+ },
+ {
+  "n": 315,
+  "question": "What does Australian society value?",
+  "options": {
+   "A": "Equal rights based on religion only.",
+   "B": "Equal rights for all people regardless of factors such as religion, nationality, gender, or background.",
+   "C": "Equal rights based on nationality only.",
+   "D": "Equal rights based on gender only."
+  },
+  "correct": "B",
+  "answer": "Equal rights for all people regardless of factors such as religion, nationality, gender, or background.",
+  "explanation": "Australian society values equal rights for all people regardless of factors such as religion, nationality, gender, or background.",
+  "t": 14233
+ },
+ {
+  "n": 316,
+  "question": "In Australia, what equality do men and women have?",
+  "options": {
+   "A": "They have no rights or opportunities.",
+   "B": "They have different rights based on gender.",
+   "C": "They have equal opportunities but different rights.",
+   "D": "They have equal rights and opportunities."
+  },
+  "correct": "D",
+  "answer": "They have equal rights and opportunities.",
+  "explanation": "In Australia, men and women enjoy equal rights and opportunities, ensuring that both genders can participate fully in all aspects of society. This equality is reflected in laws and policies that promote fairness in the workplace, education, and other areas of life.",
+  "t": 14288
+ },
+ {
+  "n": 317,
+  "question": "In Australia, who has equal opportunity to achieve success in life?",
+  "options": {
+   "A": "People from all backgrounds.",
+   "B": "Only people from certain backgrounds.",
+   "C": "Only people with high wealth.",
+   "D": "Only people with certain skills."
+  },
+  "correct": "A",
+  "answer": "People from all backgrounds.",
+  "explanation": "Australia promotes equal opportunities for all individuals regardless of their background. People are encouraged to pursue their goals based on their abilities, hard work, and aspirations rather than factors such as wealth, ethnicity, or family connections.",
+  "t": 14342
+ },
+ {
+  "n": 318,
+  "question": "In Australia, success is ideally determined by:",
+  "options": {
+   "A": "Their hard work and talents.",
+   "B": "Their gender and wealth.",
+   "C": "Their ethnicity and background.",
+   "D": "Their family connections."
+  },
+  "correct": "A",
+  "answer": "Their hard work and talents.",
+  "explanation": "In Australia, success is ideally determined by an individual's hard work, talent, and dedication.",
+  "t": 14395
+ },
+ {
+  "n": 319,
+  "question": "In Australia, can you encourage violence against a person or group of people if you have been insulted?",
+  "options": {
+   "A": "Yes, if you do not intend to carry out the violence.",
+   "B": "No, it is against Australian values and the law.",
+   "C": "Sometimes if you feel very offended.",
+   "D": "Yes, it is legal and goes right with Australian values."
+  },
+  "correct": "B",
+  "answer": "No, it is against Australian values and the law.",
+  "explanation": "No. In Australia, you cannot encourage violence against a person or group of people, even if you have been insulted. Encouraging or inciting violence is illegal and can lead to serious legal consequences, including fines and imprisonment.",
+  "t": 14435
+ },
+ {
+  "n": 320,
+  "question": "Australia values the principles of mutual respect and tolerance. What does this mean?",
+  "options": {
+   "A": "Listening to others and respecting their views even when they are different from your own.",
+   "B": "Agreeing with others to avoid arguments and maintain peace in discussions.",
+   "C": "Only participating in discussions with people who share your own opinions.",
+   "D": "Ignoring opinions that conflict with your own to avoid misunderstandings."
+  },
+  "correct": "A",
+  "answer": "Listening to others and respecting their views even when they are different from your own.",
+  "explanation": "Mutual respect and tolerance in Australia mean listening to others and valuing their perspectives even if you disagree with them.",
+  "t": 14496
+ },
+ {
+  "n": 321,
+  "question": "Australia values the principle of mutual respect and tolerance. This means:",
+  "options": {
+   "A": "Listening to others and respecting their views even if they differ.",
+   "B": "Ignoring other people's opinions.",
+   "C": "Disagreeing with others without consideration.",
+   "D": "Avoiding conversations with people who think differently."
+  },
+  "correct": "A",
+  "answer": "Listening to others and respecting their views even if they differ.",
+  "explanation": "Australia values the principles of mutual respect and tolerance. This means listening to others and respecting their views and opinions even when they are different from your own.",
+  "t": 14556
+ },
+ {
+  "n": 322,
+  "question": "What is the age of sexual consent in Australia?",
+  "options": {
+   "A": "18 with no exceptions.",
+   "B": "16 or 17 depending on the state or territory.",
+   "C": "16 in all states and territories.",
+   "D": "21 regardless of the state or territory."
+  },
+  "correct": "B",
+  "answer": "16 or 17 depending on the state or territory.",
+  "explanation": "In Australia, there are very strict laws concerning the age of sexual consent, which is 16 or 17 depending on which state or territory you reside in.",
+  "t": 14610
+ },
+ {
+  "n": 323,
+  "question": "What do Australians believe in when it comes to disagreements?",
+  "options": {
+   "A": "Peaceful disagreement.",
+   "B": "Violence.",
+   "C": "Physical confrontation.",
+   "D": "Verbal abuse."
+  },
+  "correct": "A",
+  "answer": "Peaceful disagreement.",
+  "explanation": "Australians believe in peaceful disagreement and above all the right to be safe and free from violence and intimidation.",
+  "t": 14661
+ },
+ {
+  "n": 324,
+  "question": "What is one benefit of volunteering in Australia?",
+  "options": {
+   "A": "You earn money.",
+   "B": "You learn new skills and connect with the community.",
+   "C": "You get the chance to avoid work.",
+   "D": "You become isolated."
+  },
+  "correct": "B",
+  "answer": "You learn new skills and connect with a community.",
+  "explanation": "Volunteering is a great opportunity to share knowledge, learn new skills, and increase your integration into and sense of belonging to the Australian community.",
+  "t": 14702
+ },
+ {
+  "n": 325,
+  "question": "What does Australia value in the spirit of mateship?",
+  "options": {
+   "A": "Volunteering and community service.",
+   "B": "Focusing on individual success.",
+   "C": "Ignoring others needs.",
+   "D": "Avoiding social responsibility."
+  },
+  "correct": "A",
+  "answer": "Volunteering and community service.",
+  "explanation": "In the spirit of mateship, Australia has a strong tradition of community service and volunteering to look out for each other and strengthen the community.",
+  "t": 14749
+ },
+ {
+  "n": 326,
+  "question": "Why is it important for you to learn to speak English in Australia?",
+  "options": {
+   "A": "To travel around the country.",
+   "B": "To get an education, a job and better integrate into the community.",
+   "C": "To communicate only with government officials.",
+   "D": "To make friends easily."
+  },
+  "correct": "B",
+  "answer": "To get an education, a job, and better integrate into the community.",
+  "explanation": "Learning to speak English is important because it helps one get an education and a job and better integrate into the community. It is essential for economic participation and social cohesion.",
+  "t": 14797
+ },
+ {
+  "n": 327,
+  "question": "What is the national language of Australia?",
+  "options": {
+   "A": "French.",
+   "B": "Spanish.",
+   "C": "Mandarin.",
+   "D": "English."
+  },
+  "correct": "D",
+  "answer": "English.",
+  "explanation": "Australian society values the English language as the national language of Australia.",
+  "t": 14850
+ },
+ {
+  "n": 328,
+  "question": "What must you do if you're applying for Australian citizenship but English is not your native language?",
+  "options": {
+   "A": "You must undertake to make reasonable efforts to learn English.",
+   "B": "You must speak fluent English before applying.",
+   "C": "You must be able to write in English only.",
+   "D": "You must take an English test before applying."
+  },
+  "correct": "A",
+  "answer": "You must undertake to make reasonable efforts to learn English.",
+  "explanation": "If English is not your native language, you are required to make reasonable efforts to learn English to help you integrate into Australian society.",
+  "t": 14885
+ },
+ {
+  "n": 329,
+  "question": "What should you do in Australia if you suspect someone is planning to commit a serious crime?",
+  "options": {
+   "A": "Ignore the situation.",
+   "B": "Confront the individual directly.",
+   "C": "Keep it to yourself.",
+   "D": "Report it to the authorities."
+  },
+  "correct": "D",
+  "answer": "Report it to the authorities.",
+  "explanation": "If people in Australia suspect their friend or neighbour may be planning to commit a serious crime, they should report it to Australian government authorities as soon as possible.",
+  "t": 14937
+ },
+ {
+  "n": 330,
+  "question": "What must an Australian citizen do within Australia, even if they are also a citizen of another country?",
+  "options": {
+   "A": "Follow Australian laws at all times.",
+   "B": "Follow the laws of their home country.",
+   "C": "Only follow international laws.",
+   "D": "Follow the laws of both countries."
+  },
+  "correct": "A",
+  "answer": "Follow Australian laws at all times.",
+  "explanation": "Even if you are a citizen of another country, you must follow all Australian laws at all times as an Australian citizen.",
+  "t": 14983
+ },
+ {
+  "n": 331,
+  "question": "Do Australian citizens need to follow Australian laws while overseas?",
+  "options": {
+   "A": "No, only local laws apply.",
+   "B": "Yes, some Australian laws apply overseas.",
+   "C": "Only if traveling for work.",
+   "D": "No, laws don't apply outside Australia."
+  },
+  "correct": "B",
+  "answer": "Yes, some Australian laws apply overseas.",
+  "explanation": "Australian citizens must follow certain Australian laws even when they are overseas.",
+  "t": 15030
+ },
+ {
+  "n": 332,
+  "question": "Can Australians hold dual citizenship?",
+  "options": {
+   "A": "No. Australians can only have Australian citizenship.",
+   "B": "Yes, but only under special circumstances.",
+   "C": "No, Australia does not permit dual citizenship.",
+   "D": "Yes, if the laws of the other countries allow it."
+  },
+  "correct": "D",
+  "answer": "Yes, if the laws of the other countries allow it.",
+  "explanation": "Yes, Australians can hold dual citizenship. However, it's important to check if the other country allows dual citizenship as well.",
+  "t": 15076
+ },
+ {
+  "n": 333,
+  "question": "How do Australians respond in times of crisis?",
+  "options": {
+   "A": "They come together and support each other.",
+   "B": "They ignore the situation.",
+   "C": "They are only helpful during emergencies.",
+   "D": "They only rely on government help."
+  },
+  "correct": "A",
+  "answer": "They come together and support each other.",
+  "explanation": "Australians come together in times of crisis and take care of each other in good times and bad. How did you do on these questions? Feel free to share your score in the comments below. If you are struggling, don't worry. We'd love to help you pass your test.",
+  "t": 15125
+ }
+]
