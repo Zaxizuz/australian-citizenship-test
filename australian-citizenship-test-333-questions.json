@@ -15,7 +15,7 @@
  },
  {
   "n": 2,
-  "question": "who are the indigenous peoples of Australia?",
+  "question": "Who are the indigenous peoples of Australia?",
   "options": {
    "A": "Maui and Polynesians.",
    "B": "Aboriginal and Torres Strait Islander peoples.",
@@ -253,7 +253,7 @@
  },
  {
   "n": 19,
-  "question": "From which country did the first fleet of convicts arrive in Australia in 1,788?",
+  "question": "From which country did the first fleet of convicts arrive in Australia in 1788?",
   "options": {
    "A": "France.",
    "B": "Spain.",
@@ -269,13 +269,13 @@
   "n": 20,
   "question": "What marked the beginning of European settlement in Australia?",
   "options": {
-   "A": "The arrival of the first fleet in 1,788.",
+   "A": "The arrival of the first fleet in 1788.",
    "B": "The establishment of the gold rush.",
-   "C": "The founding of Sydney in 1,800.",
+   "C": "The founding of Sydney in 1800.",
    "D": "The signing of the Treaty of Versailles."
   },
   "correct": "A",
-  "answer": "The arrival of the first fleet in 1,788.",
+  "answer": "The arrival of the first fleet in 1788.",
   "explanation": "The beginning of European settlement in Australia is marked by the arrival of the first fleet at Botany Bay on January 26th, 1788. This fleet consisting of 11 ships carrying convicts, marines, and officers was led by Captain Arthur Phillip.",
   "t": 878
  },
@@ -290,7 +290,7 @@
   },
   "correct": "C",
   "answer": "January 26th, 1788.",
-  "explanation": "European settlement started with the arrival of the first fleet on January 2006, 1788.",
+  "explanation": "European settlement started with the arrival of the first fleet on January 26, 1788.",
   "t": 936
  },
  {
@@ -365,11 +365,11 @@
  },
  {
   "n": 27,
-  "question": "When were the Aboriginal and Torres rate islander people included in the official estimate of the Australian population?",
+  "question": "When were the Aboriginal and Torres Strait Islander people included in the official estimate of the Australian population?",
   "options": {
-   "A": "After they protested in 1,960.",
-   "B": "After they became a majority in Australia in 1,980.",
-   "C": "After the Australian Constitution, 1,91.",
+   "A": "After they protested in 1960.",
+   "B": "After they became a majority in Australia in 1980.",
+   "C": "After the Australian Constitution, 1901.",
    "D": "After the 1967 referendum."
   },
   "correct": "D",
@@ -481,7 +481,7 @@
   "options": {
    "A": "Melbourne.",
    "B": "Brisbane.",
-   "C": "Can.",
+   "C": "Canberra.",
    "D": "Hobart."
   },
   "correct": "D",
@@ -493,7 +493,7 @@
   "n": 36,
   "question": "What is the capital of South Australia?",
   "options": {
-   "A": "Can.",
+   "A": "Canberra.",
    "B": "Adelaide.",
    "C": "Sydney.",
    "D": "Newcastle."
@@ -509,7 +509,7 @@
   "options": {
    "A": "Brisbane.",
    "B": "Newcastle.",
-   "C": "Can.",
+   "C": "Canberra.",
    "D": "Perth."
   },
   "correct": "D",
@@ -550,7 +550,7 @@
   "question": "What is the capital of New South Wales?",
   "options": {
    "A": "Sydney.",
-   "B": "Can.",
+   "B": "Canberra.",
    "C": "Melbourne.",
    "D": "Newcastle."
   },
@@ -605,7 +605,7 @@
   "n": 44,
   "question": "Which of the following are Australian mainland territories?",
   "options": {
-   "A": "Northern Territory and Australian Capital Territory?",
+   "A": "Northern Territory and Australian Capital Territory.",
    "B": "Queensland and Tasmania.",
    "C": "Victoria and New South Wales.",
    "D": "South Australia and Western Australia."
@@ -724,7 +724,7 @@
   },
   "correct": "B",
   "answer": "Victoria.",
-  "explanation": "The smallest of the mainland Australian states by area is Victoria. It covers approximately 227,444 km.",
+  "explanation": "The smallest of the mainland Australian states by area is Victoria. It covers approximately 227,444 km².",
   "t": 2213
  },
  {
@@ -733,7 +733,7 @@
   "options": {
    "A": "Great Barrier Reef.",
    "B": "Small Barrier Reef.",
-   "C": "Ain Court Reef.",
+   "C": "[option unclear in audio].",
    "D": "Ningaloo Reef."
   },
   "correct": "A",
@@ -751,7 +751,7 @@
    "D": "East of the Tasmania State."
   },
   "correct": "C",
-  "answer": "North of the Queensland state.",
+  "answer": "North of the Queensland State.",
   "explanation": "The Torres Strait Islands lie to the north of the Queensland state and the world famous Great Barrier Reef runs along its eastern coast.",
   "t": 2294
  },
@@ -766,7 +766,7 @@
   },
   "correct": "B",
   "answer": "Queensland.",
-  "explanation": "Australia's second largest state by area is Queensland. It covers approximately 1,723,030 km.",
+  "explanation": "Australia's second largest state by area is Queensland. It covers approximately 1,723,030 km².",
   "t": 2337
  },
  {
@@ -815,28 +815,28 @@
   "n": 59,
   "question": "Which of the following are icons of South Australia?",
   "options": {
-   "A": "The Barasa Valley and the Flenders Ranges.",
+   "A": "The Barossa Valley and the Flinders Ranges.",
    "B": "The Great Barrier Reef and Uluru.",
    "C": "The Sydney Opera House and Bondi Beach.",
    "D": "The Twelve Apostles and the Kimberley region."
   },
   "correct": "A",
-  "answer": "The Barasa Valley and the Flenders Ranges.",
-  "explanation": "South Australia's icons include the Barasa Valley and the Flenders Ranges.",
+  "answer": "The Barossa Valley and the Flinders Ranges.",
+  "explanation": "South Australia's icons include the Barossa Valley and the Flinders Ranges.",
   "t": 2499
  },
  {
   "n": 60,
   "question": "What is Adelaide, the capital of South Australia known for?",
   "options": {
-   "A": "Fine colonial architecture?",
+   "A": "Fine colonial architecture.",
    "B": "Tall modern buildings.",
    "C": "Tropical forests.",
    "D": "Deserts."
   },
   "correct": "A",
   "answer": "Fine colonial architecture.",
-  "explanation": "Adelaide, the capital of South Australia, is renowned for its fine colonial architecture. The city features a variety of historic buildings that reflect its rich heritage, including styles such as Victorian, Eduwardian, and Gothic Revival. Notable examples include the Parliament House, St. Peter's Cathedral, and the Beehive Corner.",
+  "explanation": "Adelaide, the capital of South Australia, is renowned for its fine colonial architecture. The city features a variety of historic buildings that reflect its rich heritage, including styles such as Victorian, Edwardian, and Gothic Revival. Notable examples include the Parliament House, St. Peter's Cathedral, and the Beehive Corner.",
   "t": 2543
  },
  {
@@ -913,7 +913,7 @@
   "n": 66,
   "question": "Which national institutions are located in Canberra?",
   "options": {
-   "A": "Parliament House and the High Court of Australia?",
+   "A": "Parliament House and the High Court of Australia.",
    "B": "The Australian Museum and the National Gallery.",
    "C": "The Sydney Opera House and the Great Barrier Reef.",
    "D": "The Australian War Memorial and the Royal Botanic Gardens."
@@ -947,7 +947,7 @@
    "D": "Uluru, Kata Tjuta, and King's Canyon."
   },
   "correct": "D",
-  "answer": "Uluru Kata Tjuta and King's Canyon.",
+  "answer": "Uluru, Kata Tjuta, and King's Canyon.",
   "explanation": "Uluru, Kata Tjuta, and King's Canyon are iconic landmarks of the Northern Territory.",
   "t": 2872
  },
@@ -1003,7 +1003,7 @@
    "D": "Only the event organizer."
   },
   "correct": "B",
-  "answer": "Anyone?",
+  "answer": "Anyone.",
   "explanation": "An acknowledgement of country can be delivered by anyone whether they are indigenous or non-indigenous.",
   "t": 3044
  },
@@ -1129,7 +1129,7 @@
    "D": "26 November each year."
   },
   "correct": "A",
-  "answer": "26th January each year.",
+  "answer": "26 January each year.",
   "explanation": "Australians celebrate Australia Day on January 26th each year.",
   "t": 3438
  },
@@ -1158,7 +1158,7 @@
   },
   "correct": "D",
   "answer": "The Australian and New Zealand Army Corps landed at Gallipoli, Turkey.",
-  "explanation": "On Anzac Day, April 235th, 1915, the Australian and New Zealand Army Corps, ANZAC, landed at Gallipoli Peninsula in Turkey during World War I.",
+  "explanation": "On Anzac Day, April 25th, 1915, the Australian and New Zealand Army Corps, ANZAC, landed at Gallipoli Peninsula in Turkey during World War I.",
   "t": 3526
  },
  {
@@ -1311,7 +1311,7 @@
    "D": "The Australian National Flag, the Australian Defence Flag, and the Aboriginal Flag."
   },
   "correct": "A",
-  "answer": "The Australian National Flag, the Aboriginal flag, and the Torres Strait Islander flag.",
+  "answer": "The Australian national flag, the Aboriginal flag, and the Torres Strait Islander flag.",
   "explanation": "Australia has three official flags, the national flag, the Aboriginal flag, and the Torres Strait Islander flag.",
   "t": 4023
  },
@@ -1339,7 +1339,7 @@
    "D": "None of the above."
   },
   "correct": "A",
-  "answer": "The Australian National Flag.",
+  "answer": "The Australian national flag.",
   "explanation": "The Australian National Flag is Australia's official flag.",
   "t": 4117
  },
@@ -1367,7 +1367,7 @@
    "D": "The beauty of Australia's land."
   },
   "correct": "C",
-  "answer": "The Earth and its ceremonial significance.",
+  "answer": "The earth and its ceremonial significance.",
   "explanation": "The red colour in the Australian Aboriginal flag symbolizes the earth and its ceremonial significance.",
   "t": 4192
  },
@@ -1375,7 +1375,7 @@
   "n": 99,
   "question": "What does the black colour in the Australian Aboriginal flag represent?",
   "options": {
-   "A": "The Aboriginal peoples of Australia?",
+   "A": "The Aboriginal peoples of Australia.",
    "B": "The struggles of the indigenous people of Australia.",
    "C": "The Australian land and its fertility.",
    "D": "The Australia's connection to the world."
@@ -1517,11 +1517,11 @@
   "options": {
    "A": "The Commonwealth Star.",
    "B": "The Southern Cross.",
-   "C": "B. Australian flag.",
-   "D": "The Golden WLE."
+   "C": "The Australian flag.",
+   "D": "The Golden Wattle."
   },
   "correct": "D",
-  "answer": "The Golden WLE.",
+  "answer": "The Golden Wattle.",
   "explanation": "The background of the Commonwealth coat of arms is formed by the Golden Wattle which is Australia's national floral emblem.",
   "t": 4646
  },
@@ -1557,9 +1557,9 @@
   "n": 112,
   "question": "Which animals support the shield in the Commonwealth coat of arms?",
   "options": {
-   "A": "E mu and platypus.",
+   "A": "Emu and platypus.",
    "B": "Koala and kangaroo.",
-   "C": "Kangaroo and mu.",
+   "C": "Kangaroo and emu.",
    "D": "Wombat and kangaroo."
   },
   "correct": "C",
@@ -1683,14 +1683,14 @@
   "n": 121,
   "question": "Which is Australia's national flower?",
   "options": {
-   "A": "Golden Wattle?",
+   "A": "Golden Wattle.",
    "B": "Lily.",
    "C": "Rose.",
    "D": "Sunflower."
   },
   "correct": "A",
   "answer": "Golden Wattle.",
-  "explanation": "Australia's national flower is the Golden Wattle acacia pikeantha. Its bright yellow flowers bloom in late winter and spring symbolizing unity and resilience.",
+  "explanation": "Australia's national flower is the Golden Wattle (Acacia pycnantha). Its bright yellow flowers bloom in late winter and spring symbolizing unity and resilience.",
   "t": 5132
  },
  {
@@ -1899,7 +1899,7 @@
    "D": "Only business people and police."
   },
   "correct": "C",
-  "answer": "Everyone including the government, community, religious leaders, business people and police.",
+  "answer": "Everyone including the government, community, religious leaders, business people, and police.",
   "explanation": "Everyone should follow the Australian law. This includes government, community and religious leaders as well as business people and the police.",
   "t": 5791
  },
@@ -1913,7 +1913,7 @@
    "D": "The police enforce laws selectively."
   },
   "correct": "A",
-  "answer": "No person, group or religious rule is above the law.",
+  "answer": "No person, group, or religious rule is above the law.",
   "explanation": "The rule of law means that no person, group, or religious rule is above the law.",
   "t": 5844
  },
@@ -1983,7 +1983,7 @@
    "D": "People can express views through actions only."
   },
   "correct": "A",
-  "answer": "People can express their views including through art, film, music and literature.",
+  "answer": "People can express their views, including through art, film, music, and literature.",
   "explanation": "Freedom of Expression in Australia means that people can express their views, including through art, film, music, and literature.",
   "t": 6122
  },
@@ -2039,7 +2039,7 @@
    "D": "No. Protests are illegal in Australia."
   },
   "correct": "B",
-  "answer": "Yes, as long as the gathering is peaceful and obeys the law.",
+  "answer": "Yes. As long as the gathering is peaceful and obeys the law.",
   "explanation": "Yes, Australians can gather with others to protest against government action or an organisation as long as it is peaceful and obeys the law.",
   "t": 6324
  },
@@ -2131,7 +2131,7 @@
   "n": 153,
   "question": "Which of the following statements is true?",
   "options": {
-   "A": "The government in Australia promotes one religion?",
+   "A": "The government in Australia promotes one religion.",
    "B": "The government in Australia enforces religion.",
    "C": "The government in Australia is secular.",
    "D": "The government in Australia bans all religions."
@@ -2249,7 +2249,7 @@
    "D": "Only certain groups are given opportunities to succeed."
   },
   "correct": "A",
-  "answer": "Achievements in life should be based on talent, work and effort, not health or background.",
+  "answer": "Achievements in life should be based on talent, work, and effort, not health or background.",
   "explanation": "A fair go means that success should be based on talent, work and effort, not factors like health or background.",
   "t": 7022
  },
@@ -2285,13 +2285,13 @@
   "n": 164,
   "question": "Australian citizens can seek employment in:",
   "options": {
-   "A": "Any country without a work permit?",
+   "A": "Any country without a work permit.",
    "B": "Only private companies.",
    "C": "The Australian public service or in the Australian Defence Force.",
    "D": "Only multinational corporations."
   },
   "correct": "C",
-  "answer": "The Australian Public Service or in the Australian Defence Force.",
+  "answer": "The Australian public service or in the Australian Defence Force.",
   "explanation": "Australian citizens can seek employment in the Australian Public Service or Defence Force.",
   "t": 7171
  },
@@ -2369,7 +2369,7 @@
   "n": 170,
   "question": "What is voting for Australian citizens aged 18 years or over?",
   "options": {
-   "A": "A responsibility, right, and privilege?",
+   "A": "A responsibility, right, and privilege.",
    "B": "A civic duty and legal obligation.",
    "C": "A personal choice without consequences.",
    "D": "A government requirement only."
@@ -2397,7 +2397,7 @@
   "n": 172,
   "question": "Who can apply for a job in the Australian Defence Force?",
   "options": {
-   "A": "Only Australian citizens?",
+   "A": "Only Australian citizens.",
    "B": "Only people with military experience.",
    "C": "Only people with a university degree.",
    "D": "All Australian citizens."
@@ -2497,7 +2497,7 @@
   "options": {
    "A": "Australian citizens aged 18 or over and who are not dual citizens.",
    "B": "Only Australian citizens.",
-   "C": "Anyone living in Australia?",
+   "C": "Anyone living in Australia.",
    "D": "Citizens of any country."
   },
   "correct": "A",
@@ -2599,7 +2599,7 @@
    "D": "On government salaries only."
   },
   "correct": "A",
-  "answer": "On government funded health care, education, defence, roads, and social security.",
+  "answer": "On government funded health care, education, defence, roads and social security.",
   "explanation": "In Australia, taxes are spent on various essential services including government- funded health care, education, defence, roads, and social security.",
   "t": 8187
  },
@@ -2627,7 +2627,7 @@
    "D": "Unemployed men."
   },
   "correct": "C",
-  "answer": "Job holders, business owners and investors.",
+  "answer": "Job holders, business owners, and investors.",
   "explanation": "In Australia, job holders, business owners and investors are required to pay taxes. These taxes are used to fund essential public services for the well-being and development of the community.",
   "t": 8279
  },
@@ -2698,7 +2698,7 @@
   },
   "correct": "A",
   "answer": "Australian Taxation Office.",
-  "explanation": "The Australian Taxation Office ATO is responsible for tax collection in Australia.",
+  "explanation": "The Australian Taxation Office (ATO) is responsible for tax collection in Australia.",
   "t": 8555
  },
  {
@@ -2731,7 +2731,7 @@
  },
  {
   "n": 196,
-  "question": "What does AEC stand for?",
+  "question": "What does (AEC) stand for?",
   "options": {
    "A": "Australian Electoral Commission.",
    "B": "Australian Environmental Council.",
@@ -2740,7 +2740,7 @@
   },
   "correct": "A",
   "answer": "Australian Electoral Commission.",
-  "explanation": "AEC stands for Australian Electoral Commission is responsible for managing elections, maintaining the electoral roll and ensuring fair electoral processes in Australia.",
+  "explanation": "(AEC) stands for Australian Electoral Commission is responsible for managing elections, maintaining the electoral roll and ensuring fair electoral processes in Australia.",
   "t": 8693
  },
  {
@@ -2775,7 +2775,7 @@
   "n": 199,
   "question": "Who can force you to tell them who you voted for in elections?",
   "options": {
-   "A": "The mayor of your community?",
+   "A": "The mayor of your community.",
    "B": "Your employer.",
    "C": "No one.",
    "D": "A government official."
@@ -2829,7 +2829,7 @@
  },
  {
   "n": 203,
-  "question": "What is the Australian Electoral Commission AEC?",
+  "question": "What is the Australian Electoral Commission (AEC)?",
   "options": {
    "A": "A political party.",
    "B": "A state government body.",
@@ -2838,7 +2838,7 @@
   },
   "correct": "D",
   "answer": "A Commonwealth agency.",
-  "explanation": "The AEC is a Commonwealth agency responsible for managing federal elections and maintaining the electoral roll in Australia.",
+  "explanation": "The (AEC) is a Commonwealth agency responsible for managing federal elections and maintaining the electoral roll in Australia.",
   "t": 9019
  },
  {
@@ -2941,7 +2941,7 @@
  },
  {
   "n": 211,
-  "question": "What did each Australian colony have before 1,91?",
+  "question": "What did each Australian colony have before 1901?",
   "options": {
    "A": "Its own constitution and laws for defence, immigration, postage, trade, and transport.",
    "B": "A shared set of national laws.",
@@ -2949,7 +2949,7 @@
    "D": "A federal government overseeing all laws."
   },
   "correct": "A",
-  "answer": "Its own constitution and laws for defence, immigration, postage, trade and transport.",
+  "answer": "Its own constitution and laws for defence, immigration, postage, trade, and transport.",
   "explanation": "Before 1901, each Australian colony had its own constitution and laws which governed areas like defence, immigration, postage, trade, and transport. This made coordination between the colonies difficult.",
   "t": 9386
  },
@@ -3173,7 +3173,7 @@
    "D": "Prime minister, cabinet and parliament."
   },
   "correct": "A",
-  "answer": "Legislative, executive, and judicial.",
+  "answer": "Legislative, executive and judicial.",
   "explanation": "The Australian Constitution divides the power of government between the legislative, parliament, executive, for example, the prime minister and the cabinet and judicial powers, judges to stop one person or one group from holding all the power.",
   "t": 10182
  },
@@ -3257,7 +3257,7 @@
    "D": "Elected Parliament members."
   },
   "correct": "C",
-  "answer": "Prime Minister, Government Ministers, and Governor-General.",
+  "answer": "Prime Minister, Government Ministers and Governor-General.",
   "explanation": "The executive branch of the Australian government includes the prime minister, Australian government ministers, and the Governor-General.",
   "t": 10453
  },
@@ -3271,7 +3271,7 @@
    "D": "The public through voting in elections."
   },
   "correct": "A",
-  "answer": "The executive including the prime minister, ministers, and the Governor-General.",
+  "answer": "The executive, including the prime minister, ministers, and the Governor-General.",
   "explanation": "In Australia, the executive, which includes the prime minister, ministers, and the Governor-General, is responsible for putting laws into practice.",
   "t": 10500
  },
@@ -3322,12 +3322,12 @@
   "question": "On what basis do courts in Australia decide if someone is guilty or innocent?",
   "options": {
    "A": "Public opinions.",
-   "B": "Evidences present before them.",
+   "B": "Evidence presented before them.",
    "C": "Cultural traditions.",
    "D": "Political views."
   },
   "correct": "B",
-  "answer": "Evidences present before them.",
+  "answer": "Evidence presented before them.",
   "explanation": "Courts in Australia decide if someone is guilty or innocent based on the evidence presented before them. This includes witness testimonies, physical evidence, expert opinions, and any other relevant information.",
   "t": 10682
  },
@@ -3350,7 +3350,7 @@
   "question": "Who is the highest authority in the court?",
   "options": {
    "A": "The lawyer.",
-   "B": "The judge or magistrate?",
+   "B": "The judge or magistrate.",
    "C": "The prime minister.",
    "D": "The Governor-General."
   },
@@ -3369,7 +3369,7 @@
    "D": "Only in civil cases."
   },
   "correct": "A",
-  "answer": "Yes. Everyone has the right to a lawyer.",
+  "answer": "Yes, everyone has the right to a lawyer.",
   "explanation": "In Australia, every person has the right to a lawyer in court, especially in criminal cases. If an individual cannot afford legal representation, they may be provided with a lawyer at the state's expense, particularly if the case is serious and the interests of justice require it.",
   "t": 10813
  },
@@ -3391,13 +3391,13 @@
   "n": 243,
   "question": "Is bribing the police a crime in Australia?",
   "options": {
-   "A": "No. Only accepting a bribe is a crime?",
+   "A": "No. Only accepting a bribe is a crime.",
    "B": "Yes. Both offering and accepting a bribe are crimes.",
    "C": "No, it is allowed in some cases.",
    "D": "Yes, but only for serious crimes."
   },
   "correct": "B",
-  "answer": "Yes, both offering and accepting a bribe are crimes.",
+  "answer": "Yes. Both offering and accepting a bribe are crimes.",
   "explanation": "Yes, bribing the police is a crime in Australia. Both offering a bribe to a police officer and accepting a bribe as a police officer are serious offenses.",
   "t": 10910
  },
@@ -3405,13 +3405,13 @@
   "n": 244,
   "question": "What is the National Police Force of Australia called?",
   "options": {
-   "A": "State Police SP.",
-   "B": "Australian Federal Police AFP.",
+   "A": "State Police (SP).",
+   "B": "Australian Federal Police (AFP).",
    "C": "Australian National Police.",
-   "D": "Federal Security Police FSP."
+   "D": "Federal Security Police (FSP)."
   },
   "correct": "B",
-  "answer": "Australian Federal Police, AFP.",
+  "answer": "Australian Federal Police (AFP).",
   "explanation": "Australia's National Police Force is called the Australian Federal Police, AFP.",
   "t": 10962
  },
@@ -3509,7 +3509,7 @@
    "D": "A local representative."
   },
   "correct": "A",
-  "answer": "A governor.",
+  "answer": "Governor.",
   "explanation": "In each state of Australia, the king is represented by a governor.",
   "t": 11320
  },
@@ -3559,13 +3559,13 @@
   "n": 255,
   "question": "Who advises the king in the appointment of his representative in Australia?",
   "options": {
-   "A": "The prime minister?",
+   "A": "The prime minister.",
    "B": "The judge.",
    "C": "The Governor-General.",
    "D": "The king does not take advice from anyone."
   },
   "correct": "A",
-  "answer": "The Prime Minister.",
+  "answer": "The prime minister.",
   "explanation": "The King of Australia appoints the Governor-General as his representative in Australia on advice from the Australian Prime Minister.",
   "t": 11491
  },
@@ -3579,7 +3579,7 @@
    "D": "The Cabinet Ministers on advice from the Prime Minister."
   },
   "correct": "A",
-  "answer": "The King of Australia on advice from the Prime Minister.",
+  "answer": "The king of Australia on advice from the prime minister.",
   "explanation": "The King of Australia appoints the Governor-General as his representative in Australia on advice from the Australian Prime Minister.",
   "t": 11555
  },
@@ -3629,7 +3629,7 @@
   "n": 260,
   "question": "Which two traditions influence the Australian system of parliamentary democracy?",
   "options": {
-   "A": "British and North American traditions?",
+   "A": "British and North American traditions.",
    "B": "British and European traditions.",
    "C": "North American and Australian traditions.",
    "D": "European and Australian traditions."
@@ -3720,12 +3720,12 @@
   },
   "correct": "C",
   "answer": "The Governor-General.",
-  "explanation": "The Governor-General is responsible for signing bills passed by the Australian Parliament to give them royal ascent, making them law.",
+  "explanation": "The Governor-General is responsible for signing bills passed by the Australian Parliament to give them royal assent, making them law.",
   "t": 11973
  },
  {
   "n": 267,
-  "question": "What is the royal ascent?",
+  "question": "What is the royal assent?",
   "options": {
    "A": "When the king signs all the bills passed by the Australian Parliament into law.",
    "B": "When the prime minister signs all the bills passed by the Australian Parliament into law.",
@@ -3734,7 +3734,7 @@
   },
   "correct": "D",
   "answer": "When the Governor-General signs all the bills passed by the Australian Parliament into law.",
-  "explanation": "The royal ascent is the formal process where the Governor-General, as the king's representative, signs bills passed by the Australian Parliament into law.",
+  "explanation": "The royal assent is the formal process where the Governor-General, as the king's representative, signs bills passed by the Australian Parliament into law.",
   "t": 12013
  },
  {
@@ -3823,7 +3823,7 @@
  },
  {
   "n": 274,
-  "question": "What does MP stand for?",
+  "question": "What does (MP) stand for?",
   "options": {
    "A": "Member of parliament.",
    "B": "Member of policy.",
@@ -3846,7 +3846,7 @@
   },
   "correct": "A",
   "answer": "An elected representative of the people in the Australian or a state parliament.",
-  "explanation": "The member of parliament MP is an elected representative of the people in the Australian Parliament or a state parliament.",
+  "explanation": "The member of parliament (MP) is an elected representative of the people in the Australian Parliament or a state parliament.",
   "t": 12401
  },
  {
@@ -3879,7 +3879,7 @@
  },
  {
   "n": 278,
-  "question": "Who is a mayor or Shia president?",
+  "question": "Who is a mayor or shire president?",
   "options": {
    "A": "The leader of a local government.",
    "B": "An elected representative of the people in the Australian Parliament.",
@@ -3888,12 +3888,12 @@
   },
   "correct": "A",
   "answer": "The leader of a local government.",
-  "explanation": "In the Australian system, a mayor or shia president is the leader of a local government.",
+  "explanation": "In the Australian system, a mayor or shire president is the leader of a local government.",
   "t": 12550
  },
  {
   "n": 279,
-  "question": "Who is a counselor?",
+  "question": "Who is a councillor?",
   "options": {
    "A": "An elected representative of a state or territory in the Australian Parliament.",
    "B": "A member of parliament chosen by a government leader to oversee an area of government.",
@@ -3902,7 +3902,7 @@
   },
   "correct": "C",
   "answer": "An elected member of a local council.",
-  "explanation": "In the Australian system, a counselor is an elected member of a local council.",
+  "explanation": "In the Australian system, a councillor is an elected member of a local council.",
   "t": 12597
  },
  {
@@ -3915,7 +3915,7 @@
    "D": "To choose the prime minister directly."
   },
   "correct": "A",
-  "answer": "To elect representatives to each House of Parliament.",
+  "answer": "To elect representatives to each house of parliament.",
   "explanation": "In a federal election, Australian citizens vote to elect representatives to each House of Parliament.",
   "t": 12641
  },
@@ -3993,13 +3993,13 @@
   "n": 286,
   "question": "What is the Senate sometimes called?",
   "options": {
-   "A": "The lower house or state's House?",
+   "A": "The lower house or state's House.",
    "B": "The upper house, the House of Review, or the State's House.",
    "C": "The People's House or the House of Review.",
    "D": "The people's house or the state's house."
   },
   "correct": "B",
-  "answer": "The Upper House, the House of Review, or the States House.",
+  "answer": "The upper house, the House of Review, or the State's House.",
   "explanation": "The Australian Senate is sometimes called the Upper House, the House of Review, or the States House.",
   "t": 12895
  },
@@ -4371,7 +4371,7 @@
   "n": 313,
   "question": "Which of the following statements is true?",
   "options": {
-   "A": "The Australian government treats citizens differently based on their religion?",
+   "A": "The Australian government treats citizens differently based on their religion.",
    "B": "The Australian government treats all citizens equally regardless of religion or beliefs.",
    "C": "Only citizens with a specific religion are treated equally.",
    "D": "The Australian government enforces a national religion."
@@ -4531,7 +4531,7 @@
    "D": "You become isolated."
   },
   "correct": "B",
-  "answer": "You learn new skills and connect with a community.",
+  "answer": "You learn new skills and connect with the community.",
   "explanation": "Volunteering is a great opportunity to share knowledge, learn new skills, and increase your integration into and sense of belonging to the Australian community.",
   "t": 14702
  },
@@ -4559,7 +4559,7 @@
    "D": "To make friends easily."
   },
   "correct": "B",
-  "answer": "To get an education, a job, and better integrate into the community.",
+  "answer": "To get an education, a job and better integrate into the community.",
   "explanation": "Learning to speak English is important because it helps one get an education and a job and better integrate into the community. It is essential for economic participation and social cohesion.",
   "t": 14797
  },
@@ -4658,7 +4658,7 @@
   },
   "correct": "A",
   "answer": "They come together and support each other.",
-  "explanation": "Australians come together in times of crisis and take care of each other in good times and bad. How did you do on these questions? Feel free to share your score in the comments below. If you are struggling, don't worry. We'd love to help you pass your test.",
+  "explanation": "Australians come together in times of crisis and take care of each other in good times and bad.",
   "t": 15125
  }
 ]
